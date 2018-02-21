@@ -6,7 +6,7 @@ def sortInsert(inputList):
         j = i
         #As long as the item before is larger than the current item
         while(j > 0 and inputList[j] < inputList[j - 1]):
-            print("Iteration: ", inputList)
+            #print("Iteration: ", inputList)
             #Save current item as temp
             temp = inputList[j]
             #Change current item to previous item
