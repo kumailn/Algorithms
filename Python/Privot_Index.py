@@ -3,8 +3,11 @@
 
 def pivot(nums):
   total = sum(nums)
-    for i in range(len(nums)):
-      left_sum = sum(nums[:i])
-        if(left_sum == total-left_sum-nums[i]):
-          return i
+  for i in range(len(nums)):
+    left_sum = sum(nums[:i])
+    print(left_sum)
+    if(left_sum == total-left_sum-nums[i]):
+      return i
   return -1
+
+print(pivot([1, 7, 3, 6, 5, 6]))
