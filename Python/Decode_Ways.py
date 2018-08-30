@@ -1,24 +1,18 @@
-def numDecodings(s):
-    """
-    :type s: str
-    :rtype: int
-    """
-    total = 1
-    if(len(s) == 1 and s[0] == '0'):
+'''Given a decoding for each letter in the alphaber (A-> 1, ... Z-> 26) determine
+the number of ways a given string of digits could be interpereted'''
+
+# Generic recursive solution
+def numDecodings(s, l):
+    startIndex = len(s) - l
+    if(l == 0):
+        return 1
+    if(s[startIndex] == '0'):
+        "ONEE"
         return 0
-    for i in range(len(s) - 1):
-        if(i == 0 and int(s[i]) == 0):
-            return 0
-        if(int(s[i + 1]) == 0):
-            total -= 1
-        if(int(s[i]) == 1 and int(s[i+1]) <= 9):
-            total += 1
-        elif(int(s[i]) == 2 and int(s[i+1]) <= 6):
-            total += 1
-    if total < 0:
-        return 0
-    return total
+    res = numDecodings(s, l - 1)
+    if(l >= 2 and int(s[startIndex] + s[startIndex + 1]) <= 26):
+        res += numDecodings(s, l - 2)
+    return res
                 
-                
-                
-print(numDecodings('110'))
+data = '110'
+print(numDecodings('110', len('110')))

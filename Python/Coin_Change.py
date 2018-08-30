@@ -1,3 +1,4 @@
+# amount = total amount, coins = array of coin
 def coinChange(amount, coins):
     store = [0] * (amount + 1)
     store[0] = 1
