@@ -9,4 +9,4 @@ def coinChange(amount, coins):
     print(store)
 
 
-print(coinChange(12, [1, 2, 5]))
+print(coinChange(3, [1, 2]))
