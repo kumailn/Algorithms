@@ -17,8 +17,10 @@ b.next = ListNode(0)
 b.next.next = ListNode(43)
 
 def printLinkedList(ll):
+    l = []
     while(ll):
-        print(ll.val)
+        l += [(ll.val)]
         ll = ll.next
-
+    print(l)
+    
 printLinkedList(mergeList(a, b))
