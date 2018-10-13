@@ -1,4 +1,4 @@
-def LinkedListIntersection(headA, headB):
+def getIntersectionNode(headA, headB):
         #Save heads of a and b
         a, b = headA, headB
         #As long as both aren't equal (they'll be equal if the have an intersection
