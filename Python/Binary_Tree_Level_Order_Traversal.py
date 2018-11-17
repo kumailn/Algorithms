@@ -1,7 +1,7 @@
 #Question: Traverse a tree level by level
 #Solution: Typical Breadth First Search (BFS)
 
-def levelOrder(self, root):
+def levelOrder(root):
         #Return empty list if the root node is null
         if not root: return []
         #vaiable to hold final result, queue of nodes and current level of tree
