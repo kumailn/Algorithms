@@ -5,3 +5,5 @@ def subsetSum(nums, sumTo):
         return 1
     else:
         subsetSum()
+
+print('hi')
