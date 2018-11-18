@@ -23,6 +23,7 @@
 - [Reverse Linked List](https://github.com/kumailn/Algorithms/blob/master/Python/Reverse_Linked_List.py)
 - [Merge Linked List](https://github.com/kumailn/Algorithms/blob/master/Python/Merge_Linked_List.py)
 - [Add Two Numbers](https://github.com/kumailn/Algorithms/blob/master/Python/Add_Two_Numbers.py)
+- [Delete Node From Linked List](https://github.com/kumailn/Algorithms/blob/master/Python/Delete_Node_From_Linked_List.py)
 
 ## 🔍 Searching
 - [Binary Search Tree Search](https://github.com/kumailn/Algorithms/blob/master/Python/BST_Search.py)
@@ -30,6 +31,7 @@
 ## 💯 Bitwise
 - [Hamming Weight](https://github.com/kumailn/Algorithms/blob/master/Python/Hamming_Weight.py)
 - [Hamming Distance](https://github.com/kumailn/Algorithms/blob/master/Python/Hamming_Distance.py)
+- [Find Single Number](https://github.com/kumailn/Algorithms/blob/master/Python/Single_Number.py)
 
 ## 🤑 Greedy
 
