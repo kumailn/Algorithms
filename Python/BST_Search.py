@@ -1,5 +1,6 @@
 #Question: Given a BST and a value to find, find the node with that value
 #Solution: Simple BST tree traversal
+#Difficulty: Easy
 
 def searchBST(root, val):
         """
