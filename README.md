@@ -19,6 +19,7 @@
 - [Merge Linked List](https://github.com/kumailn/Algorithms/blob/master/Python/Merge_Linked_List.py)
 
 ## 🔍 Searching
+- [Binary Search Tree Search](https://github.com/kumailn/Algorithms/blob/master/Python/BST_Search.py)
 
 ## 💯 Bitwise
 - [Hamming Weight](https://github.com/kumailn/Algorithms/blob/master/Python/Hamming_Weight.py)
@@ -27,7 +28,6 @@
 ## 🤑 Greedy
 
 ## 📈 Graph
-- [Binary Search Tree Search](https://github.com/kumailn/Algorithms/blob/master/Python/BST_Search.py)
 
 ## 🤖 Dynamic Programming
 - [Coin Change](https://github.com/kumailn/Algorithms/blob/master/Python/Coin_Change.py)
