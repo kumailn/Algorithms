@@ -10,6 +10,8 @@
 ## 🎈 Strings
 - [First Unique Character](https://github.com/kumailn/Algorithms/blob/master/Python/First_Unique_Char.py)
 - [Reverse Words in String](https://github.com/kumailn/Algorithms/blob/master/Python/Reverse_Words_in_a_String.py)
+- [Reverse String](https://github.com/kumailn/Algorithms/blob/master/Python/Reverse_String.py)
+- [Valid Anagram](https://github.com/kumailn/Algorithms/blob/master/Python/Valid_Anagram.py)
 
 ## 🌳 Trees
 - [Valid BST](https://github.com/kumailn/Algorithms/blob/master/Python/Validate_Binary_Tree.py)
