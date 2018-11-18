@@ -16,9 +16,11 @@ def main():
     a = ListNode(4)
     a.next  = ListNode(23)
     a.next.next = ListNode(44)
+
     b = ListNode(5)
     b.next = ListNode(11)
     b.next.next = ListNode(14)
     mergeList(b, a)
+    
     print(a.printList())
 main()
