@@ -1,4 +1,7 @@
-def hammingDistance(self, x, y):
+#Question: Find the difference between the bits of two numbers
+#Solution: 
+
+def hammingDistance(x, y):
         #Simply XOR the two numbers and count the hamming weight
         n, c = x ^ y, 0
         while n: 
