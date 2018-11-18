@@ -1,5 +1,5 @@
 # 🆘 Algorithms
-- Just a bunch of algorithms with their solutions explained in detail.
+- Just a bunch of algorithms with their optimal solutions explained in detail.
 
 ## 📚 Arrays 
  - [Plus One](https://github.com/kumailn/Algorithms/blob/master/Python/Plus_One.py)
