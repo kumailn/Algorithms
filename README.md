@@ -5,6 +5,7 @@
  - [Plus One](https://github.com/kumailn/Algorithms/blob/master/Python/Plus_One.py)
  - [Maximum Sum Subarray](https://github.com/kumailn/Algorithms/blob/master/Python/Maximum_Sum_Subarray.py)
  - [First Unique Character](https://github.com/kumailn/Algorithms/blob/master/Python/First_Unique_Char.py)
+ - [Spiral Matrix Traversal](https://github.com/kumailn/Algorithms/blob/master/Python/Spiral_Matrix_Traversal.py)
 
 ## 🎈 Strings
 - [First Unique Character](https://github.com/kumailn/Algorithms/blob/master/Python/First_Unique_Char.py)
@@ -13,10 +14,13 @@
 ## 🌳 Trees
 - [Valid BST](https://github.com/kumailn/Algorithms/blob/master/Python/Validate_Binary_Tree.py)
 - [Symmetric BT](https://github.com/kumailn/Algorithms/blob/master/Python/Symmetric_Tree.py)
+- [Zig Zag Traversal](https://github.com/kumailn/Algorithms/blob/master/Python/Binary_Tree_Zig_Zag_Traversal.py)
+- [Connect Next Pointer](https://github.com/kumailn/Algorithms/blob/master/Python/Connect_Next_Pointer_Tree.py)
 
 ## 🔗 Linked Lists 
 - [Reverse Linked List](https://github.com/kumailn/Algorithms/blob/master/Python/Reverse_Linked_List.py)
 - [Merge Linked List](https://github.com/kumailn/Algorithms/blob/master/Python/Merge_Linked_List.py)
+- [Add Two Numbers](https://github.com/kumailn/Algorithms/blob/master/Python/Add_Two_Numbers.py)
 
 ## 🔍 Searching
 - [Binary Search Tree Search](https://github.com/kumailn/Algorithms/blob/master/Python/BST_Search.py)
@@ -29,6 +33,7 @@
 
 ## 📈 Graph
 
-## 🤖 Dynamic Programming
+## 🤖 Dynamic Programming / Backtracking
 - [Coin Change](https://github.com/kumailn/Algorithms/blob/master/Python/Coin_Change.py)
 - [Decode Ways](https://github.com/kumailn/Algorithms/blob/master/Python/Decode_Ways.py)
+- [Generate Parenthesis](https://github.com/kumailn/Algorithms/blob/master/Python/Generate_Paranthesis.py)
