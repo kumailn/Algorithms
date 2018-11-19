@@ -6,6 +6,7 @@
  - [Maximum Sum Subarray](https://github.com/kumailn/Algorithms/blob/master/Python/Maximum_Sum_Subarray.py)
  - [First Unique Character](https://github.com/kumailn/Algorithms/blob/master/Python/First_Unique_Char.py)
  - [Spiral Matrix Traversal](https://github.com/kumailn/Algorithms/blob/master/Python/Spiral_Matrix_Traversal.py)
+ - [Multiply By Others](https://github.com/kumailn/Algorithms/blob/master/Python/Multiply_By_Others.py)
 
 ## 🎈 Strings
 - [First Unique Character](https://github.com/kumailn/Algorithms/blob/master/Python/First_Unique_Char.py)
