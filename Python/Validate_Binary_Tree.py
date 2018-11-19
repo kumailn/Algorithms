@@ -21,3 +21,4 @@ def isValidBST(root):
             return helper(r.left, minVal, r.val) and helper(r.right, r.val, maxVal)
         #Initially call on root node with a min of -infinity and max of +infinity
         return helper(root, float('-inf'), float('inf'))
+
