@@ -39,6 +39,7 @@
 ## 🤑 Greedy
 
 ## 📈 Graph
+- [Graph Is Tree](https://github.com/kumailn/Algorithms/blob/master/Python/Graph_Is_Tree.py)
 
 ## 🤖 Dynamic Programming / Backtracking
 - [Coin Change](https://github.com/kumailn/Algorithms/blob/master/Python/Coin_Change.py)
