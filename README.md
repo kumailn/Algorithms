@@ -7,6 +7,7 @@
  - [First Unique Character](https://github.com/kumailn/Algorithms/blob/master/Python/First_Unique_Char.py)
  - [First Missing Positive](https://github.com/kumailn/Algorithms/blob/master/Python/First_Missing_Positive.py)
  - [Spiral Matrix Traversal](https://github.com/kumailn/Algorithms/blob/master/Python/Spiral_Matrix_Traversal.py)
+ - [Sorted Two Sum](https://github.com/kumailn/Algorithms/blob/master/Python/Two_Sum_Sorted.py)
  - [Multiply By Others](https://github.com/kumailn/Algorithms/blob/master/Python/Multiply_By_Others.py)
 
 ## 🎈 Strings
