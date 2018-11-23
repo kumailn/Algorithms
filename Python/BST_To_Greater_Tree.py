@@ -5,18 +5,23 @@ from _DATATYPES import TreeNode
 #Note: Due to Python scoping restrictions, var s needs to be in a class to be accessed by a recusive function
 
 class Solution(object):
-    s = 0
+    sumCount = 0
     def convertBST(self, root):
         """
         :type root: TreeNode
         :rtype: TreeNode
         """
-        if not root: return None
-        def revS(r):
-            if r.right: revS(r.right)   
-            r.val, self.s = r.val + self.s, self.s + r.val
-            if r.left: revS(r.left)
-        revS(root)
+        #Recursive helper to traverse reverse in order
+        def reverseInOrder(r):
+            #Go to right-most element
+            if r.right: reverseInOrder(r.right)   
+            #Set its value to be the current sum, and update current sum to be its (old) value
+            r.val, self.sumCount = r.val + self.sumCount, self.sumCount + r.val
+            #Go to left node if exists
+            if r.left: reverseInOrder(r.left)
+        #Run recursive helper
+        reverseInOrder(root)
+        #Return root because alorithm is in-place
         return root
     
 def main():
