@@ -1,8 +1,9 @@
+from _DATATYPES import TreeNode
 #Question: Traverse a tree level by level in a zig zag order
 #Solution: Typical Breadth First Search (BFS) but keep track of zigzag
 #Difficulty: Medium 
 
-def zigzagLevelOrder(self, root):
+def zigzagLevelOrder(root):
         """
         :type root: TreeNode
         :rtype: List[List[int]]
