@@ -20,6 +20,8 @@
 - [Valid BST](https://github.com/kumailn/Algorithms/blob/master/Python/Validate_Binary_Tree.py)
 - [Same Trees](https://github.com/kumailn/Algorithms/blob/master/Python/Same_Tree.py)
 - [Symmetric BT](https://github.com/kumailn/Algorithms/blob/master/Python/Symmetric_Tree.py)
+- [BST To Greater Tree](https://github.com/kumailn/Algorithms/blob/master/Python/BST_To_Greater_Tree.py)
+- [BST Min Difference](https://github.com/kumailn/Algorithms/blob/master/Python/BST_Min_Difference.py)
 - [Zig Zag Traversal](https://github.com/kumailn/Algorithms/blob/master/Python/Binary_Tree_Zig_Zag_Traversal.py)
 - [Connect Next Pointer](https://github.com/kumailn/Algorithms/blob/master/Python/Connect_Next_Pointer_Tree.py)
 
