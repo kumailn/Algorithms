@@ -8,8 +8,8 @@
  - [First Missing Positive](https://github.com/kumailn/Algorithms/blob/master/Python/First_Missing_Positive.py)
  - [Spiral Matrix Traversal](https://github.com/kumailn/Algorithms/blob/master/Python/Spiral_Matrix_Traversal.py)
  - [Sorted Two Sum](https://github.com/kumailn/Algorithms/blob/master/Python/Two_Sum_Sorted.py)
+ - [Merge Intervals](https://github.com/kumailn/Algorithms/blob/master/Python/Merge_Intervals.py)
  - [Three Sum](https://github.com/kumailn/Algorithms/blob/master/Python/Three_Sum.py)
- - [Longest Palindrome Substring](https://github.com/kumailn/Algorithms/blob/master/Python/Longest_Palindrome_Substring.py)
  - [Multiply By Others](https://github.com/kumailn/Algorithms/blob/master/Python/Multiply_By_Others.py)
 
 ## 🎈 Strings
@@ -17,6 +17,7 @@
 - [Reverse Words in String](https://github.com/kumailn/Algorithms/blob/master/Python/Reverse_Words_in_a_String.py)
 - [Reverse String](https://github.com/kumailn/Algorithms/blob/master/Python/Reverse_String.py)
 - [Valid Anagram](https://github.com/kumailn/Algorithms/blob/master/Python/Valid_Anagram.py)
+- [Longest Palindrome Substring](https://github.com/kumailn/Algorithms/blob/master/Python/Longest_Palindrome_Substring.py)
 
 ## 🌳 Trees
 - [Valid BST](https://github.com/kumailn/Algorithms/blob/master/Python/Validate_Binary_Tree.py)
@@ -50,5 +51,6 @@
 - [Generate Parenthesis](https://github.com/kumailn/Algorithms/blob/master/Python/Generate_Paranthesis.py)
 
 ## 🤖 Dynamic Programming / Backtracking
+- [Climbing Stairs](https://github.com/kumailn/Algorithms/blob/master/Python/Climbing_Stairs.py)
 - [Coin Change](https://github.com/kumailn/Algorithms/blob/master/Python/Coin_Change.py)
 - [Decode Ways](https://github.com/kumailn/Algorithms/blob/master/Python/Decode_Ways.py)
