@@ -9,6 +9,7 @@
  - [Spiral Matrix Traversal](https://github.com/kumailn/Algorithms/blob/master/Python/Spiral_Matrix_Traversal.py)
  - [Sorted Two Sum](https://github.com/kumailn/Algorithms/blob/master/Python/Two_Sum_Sorted.py)
  - [Three Sum](https://github.com/kumailn/Algorithms/blob/master/Python/Three_Sum.py)
+ - [Longest Palindrome Substring](https://github.com/kumailn/Algorithms/blob/master/Python/Longest_Palindrome_Substring.py)
  - [Multiply By Others](https://github.com/kumailn/Algorithms/blob/master/Python/Multiply_By_Others.py)
 
 ## 🎈 Strings
