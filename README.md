@@ -9,6 +9,7 @@
  - [Spiral Matrix Traversal](https://github.com/kumailn/Algorithms/blob/master/Python/Spiral_Matrix_Traversal.py)
  - [Sorted Two Sum](https://github.com/kumailn/Algorithms/blob/master/Python/Two_Sum_Sorted.py)
  - [Merge Intervals](https://github.com/kumailn/Algorithms/blob/master/Python/Merge_Intervals.py)
+ - [Valid Sudoku](https://github.com/kumailn/Algorithms/blob/master/Python/Valid_Sudoku.py)
  - [Three Sum](https://github.com/kumailn/Algorithms/blob/master/Python/Three_Sum.py)
  - [Multiply By Others](https://github.com/kumailn/Algorithms/blob/master/Python/Multiply_By_Others.py)
 
@@ -17,6 +18,7 @@
 - [Reverse Words in String](https://github.com/kumailn/Algorithms/blob/master/Python/Reverse_Words_in_a_String.py)
 - [Reverse String](https://github.com/kumailn/Algorithms/blob/master/Python/Reverse_String.py)
 - [Valid Anagram](https://github.com/kumailn/Algorithms/blob/master/Python/Valid_Anagram.py)
+- [Compare Version Number](https://github.com/kumailn/Algorithms/blob/master/Python/Compare_Version_Numbers.py)
 - [String To Integer](https://github.com/kumailn/Algorithms/blob/master/Python/String_To_Int.py)
 - [Longest Palindrome Substring](https://github.com/kumailn/Algorithms/blob/master/Python/Longest_Palindrome_Substring.py)
 
