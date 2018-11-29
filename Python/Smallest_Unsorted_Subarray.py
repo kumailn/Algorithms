@@ -3,7 +3,7 @@
 
 
 #Naive approach
-def findUnsortedSubarray(arr):
+def findUnsortedSubarrayN(arr):
         """
         :type nums: List[int]
         :rtype: int
@@ -15,6 +15,25 @@ def findUnsortedSubarray(arr):
             if arr[i] < cmax: end = i
             if arr[len(arr) - 1 - i] > min: beg = len(arr) - 1 - i
         return end - beg + 1
+
+#Optimal approach
+def findUnsortedSubarray(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        l, r = -1, 0
+        mmin, mmax = float('inf'), float('-inf')
+        for i in range(len(nums)):
+            mmax = max(mmax, nums[i])
+            if nums[i] != mmax: l = i
+                
+            mmin = min(mmin, nums[len(nums) - i - 1])
+            if nums[len(nums) - i - 1] != mmin: r = len(nums) - i - 1
+        print(l, r)
+        return l - r + 1
+            
+            
 
 def main():
     a = [1, 4, 6, 8, 3, 2, 9]
