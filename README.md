@@ -17,6 +17,7 @@
 - [Reverse Words in String](https://github.com/kumailn/Algorithms/blob/master/Python/Reverse_Words_in_a_String.py)
 - [Reverse String](https://github.com/kumailn/Algorithms/blob/master/Python/Reverse_String.py)
 - [Valid Anagram](https://github.com/kumailn/Algorithms/blob/master/Python/Valid_Anagram.py)
+- [String To Integer](https://github.com/kumailn/Algorithms/blob/master/Python/String_To_Int.py)
 - [Longest Palindrome Substring](https://github.com/kumailn/Algorithms/blob/master/Python/Longest_Palindrome_Substring.py)
 
 ## 🌳 Trees
