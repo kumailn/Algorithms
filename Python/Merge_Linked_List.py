@@ -7,7 +7,7 @@ def mergeList(a, b):
     #If the first node is null, or the second node exists and is smaller than the first node, swap the two nodes
     #This ensures that a is always the smallest non null node
     if not a or b and a.val > b.val: a, b = b, a
-    #If a is not null, then let its next value be a recursive call to its next value, and b
+    #If a is not null, then let its next value be a recursive call to its next value, and b (the smaller nodes next value will become the smaller of its current next value, or the other lists current value)
     if a: a.next = mergeList(a.next, b)
     #Return a's head as we never shifted a in this scope, only in subsequent recursive calls
     return a
