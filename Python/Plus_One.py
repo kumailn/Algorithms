@@ -18,3 +18,4 @@ def plusOne(nums):
 print(plusOne([1, 2, 3, 4, 0]))
 print(plusOne([9, 9]))
 print(plusOne([9, 9, 5, 9]))
+print(plusOne([0]))
