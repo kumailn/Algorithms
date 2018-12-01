@@ -4,12 +4,12 @@
 
 def plusOne(nums):
     for i in range(len(nums))[::-1]:
-        if digits[i] != 9: 
-            digits[i] += 1
-            return digits
+        if nums[i] != 9: 
+            nums[i] += 1
+            return nums
         else: 
-            digits[i] = 0
-    return [1] + digits
+            nums[i] = 0
+    return [1] + nums
 
 
 print(plusOne([1, 2, 3, 4, 0]))
