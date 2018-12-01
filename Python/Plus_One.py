@@ -3,16 +3,13 @@
 #Difficulty: Easy
 
 def plusOne(nums):
-    #Initialize pointer to the last element of the numbers 
-    i = len(nums) - 1
-    #As long as the item at the pointer is 9, set it to 0
-    while nums[i] == 9: nums[i] = 0; i -= 1
-    #If the first number has become 0 after our above loop, then append 1 to the front of nums
-    if nums[0] == 0: nums = [1] + nums
-    #Otherwise just add 1 to where the pointer stopped at   
-    else: nums[i] += 1
-    return nums
-    
+    for i in range(len(nums))[::-1]:
+        if digits[i] != 9: 
+            digits[i] += 1
+            return digits
+        else: 
+            digits[i] = 0
+    return [1] + digits
 
 
 print(plusOne([1, 2, 3, 4, 0]))
