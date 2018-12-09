@@ -1,6 +1,6 @@
 #Question: Count the number of pairs that add to a given value
 #Solution: Modifiy a traditional two sum
-#Difficulty: Easy
+#Difficulty: Easys
 
 def twoAll(nums, target):
     counts = {}
