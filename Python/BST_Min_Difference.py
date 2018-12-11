@@ -5,7 +5,7 @@ from _DATATYPES import TreeNode
 
 class Solution(object):
     #Value of previous node, set to -infinity intitially 
-    previousVal = float('-inf')
+    previousVal = float('-inf') 
     #The minimum difference between the nodes, set to infinity initially
     minDifference = float('inf')
     def minDiffInBST(self, root):
