@@ -3,10 +3,6 @@
 #Difficulty: Easy
 
 def longestPalindrome(s):
-        """
-        :type s: str
-        :rtype: int
-        """
         #Dictionary to keep count of each character
         counts = {}
         #Total count to return 

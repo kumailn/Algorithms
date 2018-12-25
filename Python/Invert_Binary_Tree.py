@@ -4,10 +4,6 @@ from _DATATYPES import TreeNode
 #Difficulty: Easy
 
 def invertTree(root):
-    """
-    :type root: TreeNode
-    :rtype: TreeNode
-    """
     #If root is null return null
     if not root: return None
     #Let the left and right children be recursive calls to right and left children respectively

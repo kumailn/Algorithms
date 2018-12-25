@@ -3,10 +3,6 @@
 #Difficulty: Easy
 
 def climbStairs(n):
-        """
-        :type n: int
-        :rtype: int
-        """
         #Initialize a array to hold the number of combinations at each step, initialize step 0 and step 1 to 1 because they only have 1 combination (no steps and 1 step)
         prevSteps = [0] * (n + 1); prevSteps[0] = 1; prevSteps[1] = 1
         #For each step starting from step 2 up to the last one
