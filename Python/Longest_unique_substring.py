@@ -3,10 +3,6 @@
 #Difficulty: Medium 
 
 def lengthOfLongestSubstring(s):
-        """
-        :type s: str
-        :rtype: int
-        """
         #Trivial case
         if not s: return 0
         #Let global max and global min the first item

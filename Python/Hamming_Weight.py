@@ -3,10 +3,6 @@
 #Difficulty: Easy
 
 def hammingWeight(self, n):
-        """
-        :type n: int
-        :rtype: int
-        """
         #Variable to count the weight
         c = 0
         #While number is not null (ie 0)

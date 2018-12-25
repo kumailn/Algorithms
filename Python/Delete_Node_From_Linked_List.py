@@ -4,9 +4,7 @@ from _DATATYPES import ListNode
 #Difficulty: Easy
 
 def deleteNode(node):
-        """
-        :type node: ListNode
-        :rtype: void Do not return anything, modify node in-place instead.
-        """
+        #Set the current nodes value to the value of the next node
         node.val = node.next.val
+        #Set the current nodes next property to the next nodes next, esspentially 'deleting' the original next node
         node.next = node.next.next

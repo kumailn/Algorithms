@@ -3,10 +3,6 @@
 #Difficulty: Easy
 
 def longestPalindrome(s):
-        """
-        :type s: str
-        :rtype: str
-        """
         #Keep track of largest palindrome found so far
         gmax = ""
         #Helper function to find the longest palindrome given a left starting index and a right starting index 

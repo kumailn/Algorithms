@@ -4,10 +4,6 @@
 
 #Complexity: Time O(2n) - Space O(n)
 def firstUniqChar(s):
-        """
-        :type s: str
-        :rtype: int
-        """
         #Create a hashmap (dictionary) to store the counts of each letter
         d = {}
         #For each item in the string, store it in the map, and count its occrance
