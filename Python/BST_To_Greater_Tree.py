@@ -7,10 +7,6 @@ from _DATATYPES import TreeNode
 class Solution(object):
     sumCount = 0
     def convertBST(self, root):
-        """
-        :type root: TreeNode
-        :rtype: TreeNode
-        """
         #Recursive helper to traverse reverse in order
         def reverseInOrder(r):
             #Go to right-most element
