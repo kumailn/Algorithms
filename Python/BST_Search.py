@@ -3,11 +3,6 @@
 #Difficulty: Easy
 
 def searchBST(root, val):
-        """
-        :type root: TreeNode
-        :type val: int
-        :rtype: TreeNode
-        """
         #As long as the current node is not null, and its value is not the value we're looking for
         while root and val != root.val:
             #Move to left child node if the value we're looking for is less than current nodes value, else to right child node
