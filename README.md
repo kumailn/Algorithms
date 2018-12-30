@@ -2,7 +2,7 @@
 - Just a bunch of algorithms with their optimal solutions explained in detail.
 
 ## 📚 Arrays 
- - [Plus One](https://github.com/kumailn/Algorithms/blob/master/Python/Plus_One.py)
+ - [Plus One](https://github.com/kumailn/Algorithms/blob/master/Python/Plus_One.py) [python](https://github.com/kumailn/Algorithms/blob/master/Python/Plus_One.py) [Dart](https://github.com/kumailn/Algorithms/blob/master/Dart/Plus_One.dart) [JS](https://github.com/kumailn/Algorithms/blob/master/Javascript/Plus_One.js)
  - [Two Sum](https://github.com/kumailn/Algorithms/blob/master/Python/Two_Sum_All_Pairs.py)
  - [Maximum Sum Subarray](https://github.com/kumailn/Algorithms/blob/master/Python/Maximum_Sum_Subarray.py)
  - [First Unique Character](https://github.com/kumailn/Algorithms/blob/master/Python/First_Unique_Char.py)
