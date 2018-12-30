@@ -2,10 +2,10 @@
 - Just a bunch of algorithms with their optimal solutions explained in detail.
 
 ## 📚 Arrays 
- - [Plus One](https://github.com/kumailn/Algorithms/blob/master/Python/Plus_One.py)
- - [Two Sum](https://github.com/kumailn/Algorithms/blob/master/Python/Two_Sum_All_Pairs.py)
- - [Maximum Sum Subarray](https://github.com/kumailn/Algorithms/blob/master/Python/Maximum_Sum_Subarray.py)
- - [First Unique Character](https://github.com/kumailn/Algorithms/blob/master/Python/First_Unique_Char.py)
+ - [Plus One](https://github.com/kumailn/Algorithms/blob/master/Python/Plus_One.py) ([Python](https://github.com/kumailn/Algorithms/blob/master/Python/Plus_One.py) / [Dart](https://github.com/kumailn/Algorithms/blob/master/Dart/Plus_One.dart) / [JS](https://github.com/kumailn/Algorithms/blob/master/Javascript/Plus_One.js))
+ - [Two Sum](https://github.com/kumailn/Algorithms/blob/master/Python/Two_Sum_All_Pairs.py) ([Python](https://github.com/kumailn/Algorithms/blob/master/Python/Two_Sum_All_Pairs.py) / [Dart](https://github.com/kumailn/Algorithms/tree/master/Dart))
+ - [Maximum Sum Subarray](https://github.com/kumailn/Algorithms/blob/master/Python/Maximum_Sum_Subarray.py) ([Python](https://github.com/kumailn/Algorithms/blob/master/Python/Maximum_Sum_Subarray.py) / [Dart](https://github.com/kumailn/Algorithms/blob/master/Dart/Maximum_Sum_Subarray.dart))
+ - [First Unique Character](https://github.com/kumailn/Algorithms/blob/master/Python/First_Unique_Char.py) ([Python](https://github.com/kumailn/Algorithms/blob/master/Python/First_Unique_Char.py) / [Dart](https://github.com/kumailn/Algorithms/blob/master/Dart/First_Unique_Char.dart))
  - [First Missing Positive](https://github.com/kumailn/Algorithms/blob/master/Python/First_Missing_Positive.py)
  - [Spiral Matrix Traversal](https://github.com/kumailn/Algorithms/blob/master/Python/Spiral_Matrix_Traversal.py)
  - [Sorted Two Sum](https://github.com/kumailn/Algorithms/blob/master/Python/Two_Sum_Sorted.py)
