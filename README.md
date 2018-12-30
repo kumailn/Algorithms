@@ -29,10 +29,10 @@
 - [Longest Palindrome Substring](https://github.com/kumailn/Algorithms/blob/master/Python/Longest_Palindrome_Substring.py)
 
 ## 🌳 Trees
-- [Valid BST](https://github.com/kumailn/Algorithms/blob/master/Python/Validate_Binary_Tree.py)
+- [Valid BST](https://github.com/kumailn/Algorithms/blob/master/Python/Validate_Binary_Tree.py) ([Python](https://github.com/kumailn/Algorithms/blob/master/Python/Validate_Binary_Tree.py) / [Dart](https://github.com/kumailn/Algorithms/blob/master/Dart/Validate_Binary_Tree.dart))
 - [Same Trees](https://github.com/kumailn/Algorithms/blob/master/Python/Same_Tree.py)
-- [Symmetric BT](https://github.com/kumailn/Algorithms/blob/master/Python/Symmetric_Tree.py)
-- [Has Path With Sum](https://github.com/kumailn/Algorithms/blob/master/Python/Has_Path_Sum.py)
+- [Symmetric BT](https://github.com/kumailn/Algorithms/blob/master/Python/Symmetric_Tree.py) ([Python](https://github.com/kumailn/Algorithms/blob/master/Python/Symmetric_Tree.py) / [Dart](https://github.com/kumailn/Algorithms/blob/master/Dart/Symmetric_Tree.dart))
+- [Has Path With Sum](https://github.com/kumailn/Algorithms/blob/master/Python/Has_Path_Sum.py) ([Python](https://github.com/kumailn/Algorithms/blob/master/Python/Has_Path_Sum.py) / [Dart]())
 - [Min Tree Path](https://github.com/kumailn/Algorithms/blob/master/Python/Min_Tree_Path.py)
 - [Paths to Leaves](https://github.com/kumailn/Algorithms/blob/master/Python/Path_To_Leaves.py)
 - [Number Of Islands](https://github.com/kumailn/Algorithms/blob/master/Python/Number_Of_Islands.py)
