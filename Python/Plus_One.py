@@ -3,6 +3,7 @@
 #Difficulty: Easy
 
 def plusOne(nums):
+    #Loop through the list of numbers backwards
     for i in range(len(nums))[::-1]:
         if nums[i] != 9: 
             nums[i] += 1
