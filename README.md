@@ -3,6 +3,7 @@
 
 ## 📚 Arrays 
  - [Plus One](https://github.com/kumailn/Algorithms/blob/master/Python/Plus_One.py)
+ - [Two Sum](https://github.com/kumailn/Algorithms/blob/master/Python/Two_Sum_All_Pairs.py)
  - [Maximum Sum Subarray](https://github.com/kumailn/Algorithms/blob/master/Python/Maximum_Sum_Subarray.py)
  - [First Unique Character](https://github.com/kumailn/Algorithms/blob/master/Python/First_Unique_Char.py)
  - [First Missing Positive](https://github.com/kumailn/Algorithms/blob/master/Python/First_Missing_Positive.py)
