@@ -2,7 +2,7 @@
 - Just a bunch of algorithms with their optimal solutions explained in detail.
 
 ## 📚 Arrays 
- - [Plus One](https://github.com/kumailn/Algorithms/blob/master/Python/Plus_One.py) ([Python](https://github.com/kumailn/Algorithms/blob/master/Python/Plus_One.py) / [Dart](https://github.com/kumailn/Algorithms/blob/master/Dart/Plus_One.dart) / [JS](https://github.com/kumailn/Algorithms/blob/master/Javascript/Plus_One.js))
+ - [Plus One](https://github.com/kumailn/Algorithms/blob/master/Python/Plus_One.py) ([Python](https://github.com/kumailn/Algorithms/blob/master/Python/Plus_One.py) / [Dart](https://github.com/kumailn/Algorithms/blob/master/Dart/Plus_One.dart) / [Javascript](https://github.com/kumailn/Algorithms/blob/master/Javascript/Plus_One.js))
  - [Two Sum](https://github.com/kumailn/Algorithms/blob/master/Python/Two_Sum_All_Pairs.py) ([Python](https://github.com/kumailn/Algorithms/blob/master/Python/Two_Sum_All_Pairs.py) / [Dart](https://github.com/kumailn/Algorithms/tree/master/Dart))
  - [Maximum Sum Subarray](https://github.com/kumailn/Algorithms/blob/master/Python/Maximum_Sum_Subarray.py) ([Python](https://github.com/kumailn/Algorithms/blob/master/Python/Maximum_Sum_Subarray.py) / [Dart](https://github.com/kumailn/Algorithms/blob/master/Dart/Maximum_Sum_Subarray.dart))
  - [First Unique Character](https://github.com/kumailn/Algorithms/blob/master/Python/First_Unique_Char.py) ([Python](https://github.com/kumailn/Algorithms/blob/master/Python/First_Unique_Char.py) / [Dart](https://github.com/kumailn/Algorithms/blob/master/Dart/First_Unique_Char.dart))
@@ -29,10 +29,10 @@
 - [Longest Palindrome Substring](https://github.com/kumailn/Algorithms/blob/master/Python/Longest_Palindrome_Substring.py)
 
 ## 🌳 Trees
-- [Valid BST](https://github.com/kumailn/Algorithms/blob/master/Python/Validate_Binary_Tree.py)
+- [Valid BST](https://github.com/kumailn/Algorithms/blob/master/Python/Validate_Binary_Tree.py) ([Python](https://github.com/kumailn/Algorithms/blob/master/Python/Validate_Binary_Tree.py) / [Dart](https://github.com/kumailn/Algorithms/blob/master/Dart/Validate_Binary_Tree.dart))
 - [Same Trees](https://github.com/kumailn/Algorithms/blob/master/Python/Same_Tree.py)
-- [Symmetric BT](https://github.com/kumailn/Algorithms/blob/master/Python/Symmetric_Tree.py)
-- [Has Path With Sum](https://github.com/kumailn/Algorithms/blob/master/Python/Has_Path_Sum.py)
+- [Symmetric BT](https://github.com/kumailn/Algorithms/blob/master/Python/Symmetric_Tree.py) ([Python](https://github.com/kumailn/Algorithms/blob/master/Python/Symmetric_Tree.py) / [Dart](https://github.com/kumailn/Algorithms/blob/master/Dart/Symmetric_Tree.dart))
+- [Has Path With Sum](https://github.com/kumailn/Algorithms/blob/master/Python/Has_Path_Sum.py) ([Python](https://github.com/kumailn/Algorithms/blob/master/Python/Has_Path_Sum.py) / [Dart]())
 - [Min Tree Path](https://github.com/kumailn/Algorithms/blob/master/Python/Min_Tree_Path.py)
 - [Paths to Leaves](https://github.com/kumailn/Algorithms/blob/master/Python/Path_To_Leaves.py)
 - [Number Of Islands](https://github.com/kumailn/Algorithms/blob/master/Python/Number_Of_Islands.py)
