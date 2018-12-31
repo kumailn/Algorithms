@@ -6,7 +6,7 @@ class TreeNode {
 
   @override
     String toString() {
-      return super.toString();
+      return val.toString();
     }
 }
 
@@ -17,7 +17,6 @@ class ListNode {
 
   @override
     String toString() {
-      // TODO: implement toString
-      return super.toString();
+      return val.toString();
     }
 }
