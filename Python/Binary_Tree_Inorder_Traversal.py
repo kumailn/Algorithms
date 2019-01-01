@@ -22,6 +22,29 @@ def inOrder2(root, order=[]):
     inOrder2(root.right, order)
     return order
 
+#Third method, iteratively traverse using a stack and a pointer
+def inorder3(root):
+    order, stack = [], []
+    #As long as the stack is not empty OR the pointer to the current node is not null
+    while stack or root:
+        #If the pointer to the current node is non-null
+        if root:
+            #Append the current (non-null) node to the stack and move left
+            stack += [root]
+            root = root.left
+        #If the pointer to the current node is null, we must have reached the leftmost item in the current stack, so start popping
+        else:
+            #Save the popped node into a temporary one and add it's value to our order result
+            temp = stack.pop()
+            order += [temp.val]
+            #Move our current pointer to its right child
+            root = temp.right
+    return order
+            
+
+
+
+
 def main():
     a = TreeNode(5)
     a.left = TreeNode(3)
@@ -31,4 +54,5 @@ def main():
 
     print(inOrder(a))
     print(inOrder2(a))
+    print(inorder3(a))
 main()
