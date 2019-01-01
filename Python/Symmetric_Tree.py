@@ -1,5 +1,4 @@
 from _DATATYPES import *
-
 #Question: Determine if a tree is symmetric
 #Solution: Recursively call mirroring nodes
 #Difficulty: Easy
