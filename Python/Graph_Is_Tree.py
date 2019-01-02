@@ -3,11 +3,6 @@
 #Difficulty: Medium
 
 def validTree(n, edges):
-    """
-    :type n: int
-    :type edges: List[List[int]]
-    :rtype: bool
-    """
     #Create a list where each item is the parent of itself
     parent = list(range(n))
     #Helper function to find the greatest parent of a node
@@ -21,7 +16,8 @@ def validTree(n, edges):
         if x is y: return False
         #Otherwise set the parent of the edge_from to be edge_to, note you could also do this the other way around
         parent[x] = y
-    #Make sure that number of edges is 1 less than number of nodes to ensure nothing is in a cycle
+    #Make sure that number of edges is 1 less than number of nodes to ensure nothing is in a cycle, and no less, otherwise there will be multiple trees
+    #(Because if we had 2 nodes and 2 edges, there would be a cycle, so ensure there is no cycle the number of edges is 1 less than the number of nodes)
     return len(edges) == n - 1
 
 def main():
