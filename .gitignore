@@ -1,3 +1,5 @@
 /Python/__pycache__
 \.vscode
 secrets/
+Rust/*.exe
+Rust/*.pdb
