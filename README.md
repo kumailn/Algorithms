@@ -15,6 +15,7 @@
  - [Merge Intervals](https://github.com/kumailn/Algorithms/blob/master/Python/Merge_Intervals.py)
  - [Valid Sudoku](https://github.com/kumailn/Algorithms/blob/master/Python/Valid_Sudoku.py)
  - [Three Sum](https://github.com/kumailn/Algorithms/blob/master/Python/Three_Sum.py)
+ - [Maximum Size Subarray Sum Equals K](https://github.com/kumailn/Algorithms/blob/master/Python/Maximum_Size_Subarray_Sum_Equals_k.py)
  - [Multiply By Others](https://github.com/kumailn/Algorithms/blob/master/Python/Multiply_By_Others.py)
 
 ## 🎈 Strings
@@ -29,9 +30,16 @@
 - [Longest Palindrome Substring](https://github.com/kumailn/Algorithms/blob/master/Python/Longest_Palindrome_Substring.py)
 
 ## 🌳 Trees
+- [Inorder Traversal](https://github.com/kumailn/Algorithms/blob/master/Python/BT_Inorder_Traversal.py)
+- [Preorder Traversal](https://github.com/kumailn/Algorithms/blob/master/Python/BST_Preorder_Traversal.py)
+- [Postorder Traversal](https://github.com/kumailn/Algorithms/blob/master/Python/BST_Postorder_Traversal.py)
+- [Inorder Successor](https://github.com/kumailn/Algorithms/blob/master/Python/BST_InOrder_Successor.py)
+- [Inorder Predecessor](https://github.com/kumailn/Algorithms/blob/master/Python/BST_InOrder_Predecessor.py)
 - [Valid BST](https://github.com/kumailn/Algorithms/blob/master/Python/Validate_Binary_Tree.py) ([Python](https://github.com/kumailn/Algorithms/blob/master/Python/Validate_Binary_Tree.py) / [Dart](https://github.com/kumailn/Algorithms/blob/master/Dart/Validate_Binary_Tree.dart))
 - [Same Trees](https://github.com/kumailn/Algorithms/blob/master/Python/Same_Tree.py)
 - [Symmetric BT](https://github.com/kumailn/Algorithms/blob/master/Python/Symmetric_Tree.py) ([Python](https://github.com/kumailn/Algorithms/blob/master/Python/Symmetric_Tree.py) / [Dart](https://github.com/kumailn/Algorithms/blob/master/Dart/Symmetric_Tree.dart))
+- [Univalue Trees](https://github.com/kumailn/Algorithms/blob/master/Python/BST_Univalue.py)
+- [Lowest Common Ancestor](https://github.com/kumailn/Algorithms/blob/master/Python/Maximum_Size_Subarray_Sum_Equals_k.py)
 - [Has Path With Sum](https://github.com/kumailn/Algorithms/blob/master/Python/Has_Path_Sum.py) ([Python](https://github.com/kumailn/Algorithms/blob/master/Python/Has_Path_Sum.py) / [Dart]())
 - [Min Tree Path](https://github.com/kumailn/Algorithms/blob/master/Python/Min_Tree_Path.py)
 - [Paths to Leaves](https://github.com/kumailn/Algorithms/blob/master/Python/Path_To_Leaves.py)
@@ -59,6 +67,7 @@
 
 ## 📈 Graph
 - [Graph Is Tree](https://github.com/kumailn/Algorithms/blob/master/Python/Graph_Is_Tree.py)
+- [Topological Sort](https://github.com/kumailn/Algorithms/blob/master/Python/Topological_Sort.py)
 
 ## ⏪ Backtracking
 - [Generate Parenthesis](https://github.com/kumailn/Algorithms/blob/master/Python/Generate_Paranthesis.py)
