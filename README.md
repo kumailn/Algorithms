@@ -68,6 +68,7 @@
 ## 📈 Graph
 - [Graph Is Tree](https://github.com/kumailn/Algorithms/blob/master/Python/Graph_Is_Tree.py)
 - [Topological Sort](https://github.com/kumailn/Algorithms/blob/master/Python/Topological_Sort.py)
+- [Validate DAG](https://github.com/kumailn/Algorithms/blob/master/Python/Validate_DAG.py)
 
 ## ⏪ Backtracking
 - [Generate Parenthesis](https://github.com/kumailn/Algorithms/blob/master/Python/Generate_Paranthesis.py)
