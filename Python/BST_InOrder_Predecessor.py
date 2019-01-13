@@ -6,8 +6,11 @@ from _DATATYPES import TreeNode
 def inorderPredecessor(root, p):
     if not root: return None
     predecessor = None
+
     while root:
+        #Keep moving right if the current roots val is less than our target, while setting 'predecessor' to be the current root
         if root.val < p.val: predecessor, root = root, root.right
+        #If the current roots value is less more our taget, move left
         else: root = root.left
     return predecessor
 
