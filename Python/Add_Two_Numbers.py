@@ -24,3 +24,16 @@ def addTwoNumbers(l1, l2):
             n = n.next
         #Return the origin nodes next node
         return orig.next
+
+def main():
+    a = ListNode(5)
+    a.next = ListNode(6)
+    a.next.next = ListNode(1)
+
+    b = ListNode(9)
+    b.next = ListNode(3)
+
+    #165 + 39 = 204
+    print(addTwoNumbers(a, b).printList())
+
+main()
