@@ -1,27 +1,33 @@
 #Question: Find the sum of a continious subarray in an array with the largest sum
-#Solution: Kadanes algorithm
+#Solution: Kadanes algorithm (explained below)
 #Difficulty: Easy
+#Time Complexity: O(n)
+   
+def maxSubArray(nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
 
-#Optimal solution using Kadanes algorithm
-def maxsumsub(arr):
-    #If list is empty the sum is 0
-    if not arr: return 0
-    #Store the current maximum and global maximum, set both to sub array consisting of first element initially
-    currentMax = globalMax = arr[0]
-    #Loop from 1 to end (Since current and global max already have 0th element)
-    for i in range(1, len(arr)):
-        #Set current max to be the max of just the current element, or the current element + the current max calculated
-        currentMax = max(arr[i], currentMax + arr[i])
-        #If current max turns out to be larger than global, make global current
-        if(globalMax < currentMax): globalMax = currentMax
-    return globalMax
+        #Trivial case
+        if not nums: return 0
 
-#More compact solution        
-def maxSubArray(self, nums):
-        cmax = gmax = nums[0] if nums else 0
-        for i, v in enumerate(nums[1:]):
-            cmax = max(cmax + v, v)
-            if cmax > gmax: gmax = cmax
-        return gmax
+        #Initialize a store for the local and global maximum sumarrays
+        localMax = globalMax = nums[0]
 
-print(maxsumsub([-2,1,-3,4,-1,2,1,-5,4]))
+        #Start looping through the numbers from index 1 because local and gloval are nums[0]
+        for i in range(1, len(nums)):
+            #LocalMax becomes the larger of the current number or the current number + localMax itself
+            localMax = max(localMax + nums[i], nums[i])
+
+            #If localMax happens to become larger than globalMax, set globalMax to localMax
+            if localMax > globalMax:
+                globalMax = localMax
+
+        return globalMax
+
+def main():
+    #Result should be 6
+    print(maxSubArray([-2,1,-3,4,-1,2,1,-5,4]))
+
+main()

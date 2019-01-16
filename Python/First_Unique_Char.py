@@ -4,13 +4,24 @@
 
 #Complexity: Time O(2n) - Space O(n)
 def firstUniqChar(s):
+
         #Create a hashmap (dictionary) to store the counts of each letter
-        d = {}
+        letterCounts = {}
+
         #For each item in the string, store it in the map, and count its occrance
-        for i in s:
-            if i in d: d[i] += 1
-            else: d[i] = 1
+        for letter in s:
+            if letter in letterCounts:
+                letterCounts[letter] += 1
+            else:
+                letterCounts[letter] = 1
+
         #Loop through string again, if the current letters count is 1 return that letter
         for i, v in enumerate(s):
-            if d[v] == 1: return i
+            if letterCounts[v] == 1: return i
+                
         return -1
+
+def main():
+    print(firstUniqChar('kayak'))
+
+main()
