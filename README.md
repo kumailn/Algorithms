@@ -27,7 +27,9 @@
 - [Valid Anagram](https://github.com/kumailn/Algorithms/blob/master/Python/Valid_Anagram.py)
 - [Compare Version Number](https://github.com/kumailn/Algorithms/blob/master/Python/Compare_Version_Numbers.py)
 - [String To Integer](https://github.com/kumailn/Algorithms/blob/master/Python/String_To_Int.py)
+- [Add Binary](https://github.com/kumailn/Algorithms/blob/master/Python/Add_Binary.py)
 - [Longest Palindrome Substring](https://github.com/kumailn/Algorithms/blob/master/Python/Longest_Palindrome_Substring.py)
+- [Longest Unique Substring](https://github.com/kumailn/Algorithms/blob/master/Python/Longest_unique_substring.py)
 
 ## 🌳 Trees
 - [Inorder Traversal](https://github.com/kumailn/Algorithms/blob/master/Python/BT_Inorder_Traversal.py)
@@ -35,15 +37,20 @@
 - [Postorder Traversal](https://github.com/kumailn/Algorithms/blob/master/Python/BST_Postorder_Traversal.py)
 - [Inorder Successor](https://github.com/kumailn/Algorithms/blob/master/Python/BST_InOrder_Successor.py)
 - [Inorder Predecessor](https://github.com/kumailn/Algorithms/blob/master/Python/BST_InOrder_Predecessor.py)
+- [BT Level by Level Traversal](https://github.com/kumailn/Algorithms/blob/master/Python/Binary_Tree_Level_Order_Traversal.py)
 - [Valid BST](https://github.com/kumailn/Algorithms/blob/master/Python/Validate_Binary_Tree.py) ([Python](https://github.com/kumailn/Algorithms/blob/master/Python/Validate_Binary_Tree.py) / [Dart](https://github.com/kumailn/Algorithms/blob/master/Dart/Validate_Binary_Tree.dart))
 - [Same Trees](https://github.com/kumailn/Algorithms/blob/master/Python/Same_Tree.py)
-- [Symmetric BT](https://github.com/kumailn/Algorithms/blob/master/Python/Symmetric_Tree.py) ([Python](https://github.com/kumailn/Algorithms/blob/master/Python/Symmetric_Tree.py) / [Dart](https://github.com/kumailn/Algorithms/blob/master/Dart/Symmetric_Tree.dart))
+- [Invert Binary Tree](https://github.com/kumailn/Algorithms/blob/master/Python/Invert_Binary_Tree.py)
+- [Symmetric BT](https://github.com/kumailn/Algorithms/blob/master/Python/Symmetric_Tree.py) ([Python](https://github.com/kumailn/Algorithms/blob/master/Python/Symmetric_Tree.py) / [Dart](https://github.com/kumailn/Alg1orithms/blob/master/Dart/Symmetric_Tree.dart))
 - [Univalue Trees](https://github.com/kumailn/Algorithms/blob/master/Python/BST_Univalue.py)
+- [BST Kth Smallest Element](https://github.com/kumailn/Algorithms/blob/master/Python/BST_Kth_Smallest_Element.py)
 - [Lowest Common Ancestor](https://github.com/kumailn/Algorithms/blob/master/Python/Maximum_Size_Subarray_Sum_Equals_k.py)
 - [Has Path With Sum](https://github.com/kumailn/Algorithms/blob/master/Python/Has_Path_Sum.py) ([Python](https://github.com/kumailn/Algorithms/blob/master/Python/Has_Path_Sum.py) / [Dart]())
+- [BT Min Depth](https://github.com/kumailn/Algorithms/blob/master/Python/BST_Min_Depth.py)
 - [Min Tree Path](https://github.com/kumailn/Algorithms/blob/master/Python/Min_Tree_Path.py)
 - [Paths to Leaves](https://github.com/kumailn/Algorithms/blob/master/Python/Path_To_Leaves.py)
-- [Number Of Islands](https://github.com/kumailn/Algorithms/blob/master/Python/Number_Of_Islands.py)
+- [Sum Root to Leaf Numbers]
+- [Flatten to Linked List](https://github.com/kumailn/Algorithms/blob/master/Python/BT_Flatten_To.py)
 - [BST To Greater Tree](https://github.com/kumailn/Algorithms/blob/master/Python/BST_To_Greater_Tree.py)
 - [BST Min Difference](https://github.com/kumailn/Algorithms/blob/master/Python/BST_Min_Difference.py)
 - [Zig Zag Traversal](https://github.com/kumailn/Algorithms/blob/master/Python/Binary_Tree_Zig_Zag_Traversal.py)
@@ -63,12 +70,14 @@
 - [Hamming Distance](https://github.com/kumailn/Algorithms/blob/master/Python/Hamming_Distance.py)
 - [Find Single Number](https://github.com/kumailn/Algorithms/blob/master/Python/Single_Number.py)
 
-## 🤑 Greedy
-
 ## 📈 Graph
+- [Number Of Islands](https://github.com/kumailn/Algorithms/blob/master/Python/Number_Of_Islands.py)
+- [Flood Fill](https://github.com/kumailn/Algorithms/blob/master/Python/Flood_Fill.py)
 - [Graph Is Tree](https://github.com/kumailn/Algorithms/blob/master/Python/Graph_Is_Tree.py)
+- [Connected Components](https://github.com/kumailn/Algorithms/blob/master/Python/Connected_Components_In_Undirected_Graph.py)
 - [Topological Sort](https://github.com/kumailn/Algorithms/blob/master/Python/Topological_Sort.py)
 - [Validate DAG](https://github.com/kumailn/Algorithms/blob/master/Python/Validate_DAG.py)
+- [Redundant Connection](https://github.com/kumailn/Algorithms/blob/master/Python/Redundant_Connection.py)
 - [Course Schedule](https://github.com/kumailn/Algorithms/blob/master/Python/Course_Schedule.py)
 - [Course Schedule II](https://github.com/kumailn/Algorithms/blob/master/Python/Course_Schedule_II.py)
 
