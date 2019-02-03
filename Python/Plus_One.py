@@ -3,13 +3,14 @@
 #Difficulty: Easy
 
 def plusOne(nums):
-    #Loop through the list of numbers backwards
+    #Loop through the list of numbers backwards, if we reach a 9 set it to 0, otherwise increment and return
     for i in range(len(nums))[::-1]:
         if nums[i] != 9: 
             nums[i] += 1
             return nums
         else: 
             nums[i] = 0
+    #If we've exhausted the above loop, we must've reached a number beginning in 9, so append 1 to the front
     return [1] + nums
 
 
