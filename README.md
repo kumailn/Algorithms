@@ -86,6 +86,8 @@
 - [Generate Parenthesis](https://github.com/kumailn/Algorithms/blob/master/Python/Generate_Paranthesis.py)
 - [Letter Combinations Of Phone Number](https://github.com/kumailn/Algorithms/blob/master/Python/Letter_Combinations_of_a_Phone_Number.py)
 
+## ⚒️ Divide and Conquer
+- [Count Number of Inversions](https://github.com/kumailn/Algorithms/blob/master/Python/Count_Inversions.py)
 ## 🤖 Dynamic Programming / Backtracking
 - [Climbing Stairs](https://github.com/kumailn/Algorithms/blob/master/Python/Climbing_Stairs.py)
 - [Coin Change](https://github.com/kumailn/Algorithms/blob/master/Python/Coin_Change.py)
