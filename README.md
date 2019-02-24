@@ -18,7 +18,7 @@
  - [Maximum Size Subarray Sum Equals K](https://github.com/kumailn/Algorithms/blob/master/Python/Maximum_Size_Subarray_Sum_Equals_k.py)
  - [Multiply By Others](https://github.com/kumailn/Algorithms/blob/master/Python/Multiply_By_Others.py)
 
-## 🎈 Strings
+## 🧵 Strings
 - [First Unique Character](https://github.com/kumailn/Algorithms/blob/master/Python/First_Unique_Char.py)
 - [Reverse Words in String](https://github.com/kumailn/Algorithms/blob/master/Python/Reverse_Words_in_a_String.py)
 - [Reverse Words in String II](https://github.com/kumailn/Algorithms/blob/master/Python/Reverse_Words_In_String_III.py)
@@ -88,6 +88,10 @@
 
 ## ⚒️ Divide and Conquer
 - [Count Number of Inversions](https://github.com/kumailn/Algorithms/blob/master/Python/Count_Inversions.py)
+
+## 🗃️ Sorting
+- [Merge Sort](https://github.com/kumailn/Algorithms/blob/master/Python/Merge_Sort.py)
+
 ## 🤖 Dynamic Programming / Backtracking
 - [Climbing Stairs](https://github.com/kumailn/Algorithms/blob/master/Python/Climbing_Stairs.py)
 - [Coin Change](https://github.com/kumailn/Algorithms/blob/master/Python/Coin_Change.py)
