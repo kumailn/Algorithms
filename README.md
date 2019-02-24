@@ -31,7 +31,7 @@
 - [Longest Palindrome Substring](https://github.com/kumailn/Algorithms/blob/master/Python/Longest_Palindrome_Substring.py)
 - [Longest Unique Substring](https://github.com/kumailn/Algorithms/blob/master/Python/Longest_unique_substring.py)
 
-## 🌳 Trees
+## 🌲 Trees
 - [Inorder Traversal](https://github.com/kumailn/Algorithms/blob/master/Python/BT_Inorder_Traversal.py)
 - [Preorder Traversal](https://github.com/kumailn/Algorithms/blob/master/Python/BST_Preorder_Traversal.py)
 - [Postorder Traversal](https://github.com/kumailn/Algorithms/blob/master/Python/BST_Postorder_Traversal.py)
