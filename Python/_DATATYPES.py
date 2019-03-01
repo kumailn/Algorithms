@@ -29,3 +29,12 @@ class ListNode:
             r += [t.val]
             t = t.next
         return r
+
+class equivalenceTester:
+    def __init__(self):
+        self.x = ""
+    def test(self, a, b):
+        if len(set([a, b])) == 1:
+            return a
+        else:
+            return None
