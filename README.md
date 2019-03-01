@@ -91,6 +91,7 @@
 
 ## 🗃️ Sorting
 - [Merge Sort](https://github.com/kumailn/Algorithms/blob/master/Python/Merge_Sort.py)
+- [Majority Element](https://github.com/kumailn/Algorithms/blob/master/Python/Majority_Element.py)
 
 ## 🤖 Dynamic Programming / Backtracking
 - [Climbing Stairs](https://github.com/kumailn/Algorithms/blob/master/Python/Climbing_Stairs.py)
