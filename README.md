@@ -87,11 +87,11 @@
 - [Letter Combinations Of Phone Number](https://github.com/kumailn/Algorithms/blob/master/Python/Letter_Combinations_of_a_Phone_Number.py)
 
 ## ⚒️ Divide and Conquer
-- [Count Number of Inversions](https://github.com/kumailn/Algorithms/blob/master/Python/Count_Inversions.py)
+- [Number of Inversions](https://github.com/kumailn/Algorithms/blob/master/Python/Count_Inversions.py)
+- [Majority Element](https://github.com/kumailn/Algorithms/blob/master/Python/Majority_Element.py)
 
 ## 🗃️ Sorting
 - [Merge Sort](https://github.com/kumailn/Algorithms/blob/master/Python/Merge_Sort.py)
-- [Majority Element](https://github.com/kumailn/Algorithms/blob/master/Python/Majority_Element.py)
 
 ## 🤖 Dynamic Programming / Backtracking
 - [Climbing Stairs](https://github.com/kumailn/Algorithms/blob/master/Python/Climbing_Stairs.py)
