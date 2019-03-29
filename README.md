@@ -1,5 +1,6 @@
-# 🆘 Algorithms
-- Just a bunch of algorithms with their optimal solutions explained in detail.
+# 🆘 Algorithms 
+- Just a bunch of algorithms with their optimal solutions explained in detail. [![HitCount](http://hits.dwyl.io/kumailn/Algorithms.svg)](http://hits.dwyl.io/kumailn/Algorithms)
+
 
 ## 📚 Arrays 
  - [Plus One](https://github.com/kumailn/Algorithms/blob/master/Python/Plus_One.py) ([Python](https://github.com/kumailn/Algorithms/blob/master/Python/Plus_One.py) / [Dart](https://github.com/kumailn/Algorithms/blob/master/Dart/Plus_One.dart) / [Rust](https://github.com/kumailn/Algorithms/blob/master/Rust/Plus_One.rs) / [Javascript](https://github.com/kumailn/Algorithms/blob/master/Javascript/Plus_One.js))
