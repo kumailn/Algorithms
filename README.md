@@ -69,12 +69,12 @@
 - [Binary Search Tree Search](https://github.com/kumailn/Algorithms/blob/master/Python/BST_Search.py)
 
 ## 💯 Bitwise
-- [Hamming Weight](https://github.com/kumailn/Algorithms/blob/master/Python/Hamming_Weight.py)
+- [Hamming Weight](https://github.com/kumailn/Algorithms/blob/master/Python/Hamming_Weight.py)([Python](https://github.com/kumailn/Algorithms/blob/master/Python/Hamming_Weight.py) /[C](https://github.com/kumailn/Algorithms/blob/master/C/Hamming_Weight.c))
 - [Hamming Distance](https://github.com/kumailn/Algorithms/blob/master/Python/Hamming_Distance.py)
 - [Find Single Number](https://github.com/kumailn/Algorithms/blob/master/Python/Single_Number.py)
 
 ## 📈 Graph
-- [Number Of Islands](https://github.com/kumailn/Algorithms/blob/master/Python/Number_Of_Islands.py)
+- [Number Of Islands](https://github.com/kumailn/Algorithms/blob/master/Python/Number_Of_Islands.py)([Python](https://github.com/kumailn/Algorithms/blob/master/Python/Number_Of_Islands.py) / [C](https://github.com/kumailn/Algorithms/blob/master/C/Number_Of_Islands.c))
 - [Flood Fill](https://github.com/kumailn/Algorithms/blob/master/Python/Flood_Fill.py)
 - [Graph Is Tree](https://github.com/kumailn/Algorithms/blob/master/Python/Graph_Is_Tree.py)
 - [Connected Components](https://github.com/kumailn/Algorithms/blob/master/Python/Connected_Components_In_Undirected_Graph.py)
