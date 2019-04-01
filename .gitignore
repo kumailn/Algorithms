@@ -3,3 +3,6 @@
 secrets/
 Rust/*.exe
 Rust/*.pdb
+Kotlin/*.exe
+Kotlin/*.jar
+Typescript/*.js

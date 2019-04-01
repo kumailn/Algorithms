@@ -3,8 +3,9 @@ def minWindow(s: str, t: str) -> str:
     #Trivial base case
     if not s or not t: return ""
     
-    #Initialize a hashmap with the count of each character in t        
-    _map = {t[i]:t.count(t[i]) for i in range(len(t))}
+    #Initialize a hashmap with the count of each character in t    
+    #This map denotes the characters we're looking for and their occurances     
+    lookingFor = {t[i]:t.count(t[i]) for i in range(len(t))}
     
     #Declare minlen to be ∞
     minlen = float('inf')
@@ -16,9 +17,10 @@ def minWindow(s: str, t: str) -> str:
     for i, current in enumerate(s):
         
         #If the letter is in the map, subtract 1 from it and increment letterCount if its count is >= 0
-        if current in _map: 
-            _map[current] -= 1
-            if _map[current] >= 0: letterCount += 1
+        #This way letterCount records the number of letter's we're looking for that have been found
+        if current in lookingFor: 
+            lookingFor[current] -= 1
+            if lookingFor[current] >= 0: letterCount += 1
                 
         #While our letterCount is the same as the len of t
         #Note this block of code will only execute when we've found a substring with all letters in t
@@ -32,14 +34,16 @@ def minWindow(s: str, t: str) -> str:
             #If the leftmost item is in the map, add 1 to it and decrement letterCount if its still > 0
             #This essentially means we now need to look for this letter again since we're shifting an index that includes a letter we want
             #We decrement letter count if its value in the map is non-zero to signify we're missing a letter, since letterCount is no longer the same length as t, we also exit the while loop now
-            if s[localLeft] in _map:
-                _map[s[localLeft]] += 1
-                if _map[s[localLeft]] > 0: letterCount -= 1
+            if s[localLeft] in lookingFor:
+                lookingFor[s[localLeft]] += 1
+                if lookingFor[s[localLeft]] > 0: letterCount -= 1
             
             #Keep shifting the localLeft pointer right to find smaller and smaller windows
             localLeft += 1
         
-    if minlen > len(s): return ""                    
+    if minlen > len(s): return "" 
+
+    #Return the substring starting from the globalLeft pointer and ending at + minlen                   
     return s[globalLeft:globalLeft+minlen]
             
 def main():
