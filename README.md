@@ -1,5 +1,5 @@
 # 🆘 Algorithms 
-- Just a bunch of algorithms with their optimal solutions explained in detail. [![HitCount](http://hits.dwyl.io/kumailn/Algorithms.svg)](http://hits.dwyl.io/kumailn/Algorithms)
+- A lot of leetcode problems with their optimal solutions explained in detail. [![HitCount](http://hits.dwyl.io/kumailn/Algorithms.svg)](http://hits.dwyl.io/kumailn/Algorithms)
 
 
 ## 📚 Arrays 
