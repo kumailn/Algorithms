@@ -1,5 +1,5 @@
 # 🆘 Algorithms 
-- Just a bunch of algorithms with their optimal solutions explained in detail. [![HitCount](http://hits.dwyl.io/kumailn/Algorithms.svg)](http://hits.dwyl.io/kumailn/Algorithms)
+- A lot of leetcode problems with their optimal solutions explained in detail. [![HitCount](http://hits.dwyl.io/kumailn/Algorithms.svg)](http://hits.dwyl.io/kumailn/Algorithms)
 
 
 ## 📚 Arrays 
@@ -33,6 +33,7 @@
 - [Add Binary](https://github.com/kumailn/Algorithms/blob/master/Python/Add_Binary.py)
 - [Longest Palindrome Substring](https://github.com/kumailn/Algorithms/blob/master/Python/Longest_Palindrome_Substring.py)
 - [Longest Unique Substring](https://github.com/kumailn/Algorithms/blob/master/Python/Longest_unique_substring.py)
+- [Minimum Window Substring](https://github.com/kumailn/Algorithms/blob/master/Python/Minimum_Window_Substring.py)
 
 ## 🌲 Trees
 - [Inorder Traversal](https://github.com/kumailn/Algorithms/blob/master/Python/BT_Inorder_Traversal.py)
