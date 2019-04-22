@@ -9,6 +9,7 @@
  - [First Unique Character](https://github.com/kumailn/Algorithms/blob/master/Python/First_Unique_Char.py) ([Python](https://github.com/kumailn/Algorithms/blob/master/Python/First_Unique_Char.py) / [Dart](https://github.com/kumailn/Algorithms/blob/master/Dart/First_Unique_Char.dart))
  - [Move Zeroes](https://github.com/kumailn/Algorithms/blob/master/Python/Move_Zeroes.py)
  - [Pivot Index](https://github.com/kumailn/Algorithms/blob/master/Python/Pivot_Index.py)
+ - [Best Time to Buy and Sell Stock](https://github.com/kumailn/Algorithms/blob/master/Python/Best_Time_to_Buy_and_Sell_Stock.py)
  - [First Missing Positive](https://github.com/kumailn/Algorithms/blob/master/Python/First_Missing_Positive.py)
  - [Spiral Matrix Traversal](https://github.com/kumailn/Algorithms/blob/master/Python/Spiral_Matrix_Traversal.py)
  - [Sorted Two Sum](https://github.com/kumailn/Algorithms/blob/master/Python/Two_Sum_Sorted.py)
