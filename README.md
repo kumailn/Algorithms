@@ -20,7 +20,7 @@
  - [Valid Sudoku](https://github.com/kumailn/Algorithms/blob/master/Python/Valid_Sudoku.py)
  - [Three Sum](https://github.com/kumailn/Algorithms/blob/master/Python/Three_Sum.py)
  - [Maximum Size Subarray Sum Equals K](https://github.com/kumailn/Algorithms/blob/master/Python/Maximum_Size_Subarray_Sum_Equals_k.py)
- - [Multiply By Others](https://github.com/kumailn/Algorithms/blob/master/Python/Multiply_By_Others.py)
+ - [Product of Array Except Self](https://github.com/kumailn/Algorithms/blob/master/Python/Product_of_Array_Except_Self.py)
 
 ## 🧵 Strings
 - [First Unique Character](https://github.com/kumailn/Algorithms/blob/master/Python/First_Unique_Char.py)
