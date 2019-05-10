@@ -34,6 +34,7 @@
 - [Add Binary](https://github.com/kumailn/Algorithms/blob/master/Python/Add_Binary.py)
 - [Longest Palindrome Substring](https://github.com/kumailn/Algorithms/blob/master/Python/Longest_Palindrome_Substring.py)
 - [Longest Unique Substring](https://github.com/kumailn/Algorithms/blob/master/Python/Longest_unique_substring.py)
+- [Text Justification](https://github.com/kumailn/Algorithms/blob/master/Python/Text_Justification.py) 
 - [Minimum Window Substring](https://github.com/kumailn/Algorithms/blob/master/Python/Minimum_Window_Substring.py)
 
 ## 🌲 Trees
