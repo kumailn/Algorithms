@@ -1,20 +1,29 @@
 #Question: Given a list of ints, find the smallest missing positive number
-#Solution: Find the smallest positive number, if its 1 go up until you find missing one, else return 1
-#Difficulty: Easy 
+#Solution: Sort the list as you go through by placing every term on its index + 1th place.
+#Difficulty: Hard 
 
-def firstMissingPositive(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
-        #Initialize our compare variable to infinity
-        c = float('inf')
-        for i in range(len(nums)):
-            #If nums[i] is less than our counter and its positive, set counter to nums[i]
-            if nums[i] < c and nums[i] > 0: c = nums[i]
-        #If c isnt 1, then return 1
-        if c != 1: return 1
-        while c in nums: c += 1
-        #If c is 1, add up until you find a number not in the list
-        return c
-            
+from typing import List
+
+def firstMissingPositive(nums: List[int]) -> int:
+        i, j = 0, len(nums)
+        while i < j:
+
+            #If the current number is equal to its index + 1, skip over as its already sorted
+            #ie if the number 5 is in the 4th index/ 5th place
+            if nums[i] == i+1: i += 1
+
+            #Regular case, ie a number not in the correct place
+            elif nums[i] > 0 and nums[i] <= j and nums[i] != nums[nums[i]-1]: 
+                nums[nums[i]-1], nums[i] = nums[i], nums[nums[i]-1]
+
+            #Case if the number is a duplicate, or out of our range (1 to j). So place it at the end 
+            else: 
+                j -= 1
+                nums[j], nums[i] = nums[i], nums[j]
+
+        return j + 1
+                
+def main():
+    print(firstMissingPositive([1, 5, 4, 3, 2, 7, 0]))
+
+main()
