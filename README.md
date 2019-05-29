@@ -8,7 +8,7 @@
  - [Maximum Subarray](https://github.com/kumailn/Algorithms/blob/master/Python/Maximum_Subarray.py) ([Python](https://github.com/kumailn/Algorithms/blob/master/Python/Maximum_Sum_Subarray.py) / [Dart](https://github.com/kumailn/Algorithms/blob/master/Dart/Maximum_Sum_Subarray.dart))
  - [First Unique Character](https://github.com/kumailn/Algorithms/blob/master/Python/First_Unique_Char.py) ([Python](https://github.com/kumailn/Algorithms/blob/master/Python/First_Unique_Char.py) / [Dart](https://github.com/kumailn/Algorithms/blob/master/Dart/First_Unique_Char.dart))
  - [Move Zeroes](https://github.com/kumailn/Algorithms/blob/master/Python/Move_Zeroes.py)
- - [Pivot Index](https://github.com/kumailn/Algorithms/blob/master/Python/Pivot_Index.py)
+ - [Find Pivot Index](https://github.com/kumailn/Algorithms/blob/master/Python/Find_Pivot_Index.py) ([Python](https://github.com/kumailn/Algorithms/blob/master/Python/Find_Pivot_Index.py) / [Kotlin](https://github.com/kumailn/Algorithms/blob/master/Kotlin/Find_Pivot_Index.kt))
  - [Best Time to Buy and Sell Stock](https://github.com/kumailn/Algorithms/blob/master/Python/Best_Time_to_Buy_and_Sell_Stock.py)
  - [Shortest Distance](https://github.com/kumailn/Algorithms/blob/master/Python/Shortest_Distance.py)
  - [First Missing Positive](https://github.com/kumailn/Algorithms/blob/master/Python/First_Missing_Positive.py)
