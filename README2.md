@@ -10,7 +10,7 @@
 | First Unique Character in a String | 387 | Easy | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/First_Unique_Char.py) / [Dart](https://github.com/kumailn/Algorithms/blob/master/Dart/First_Unique_Char.dart)
 | Move Zeroes | 283 | Easy | Array, Pointer | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Move_Zeroes.py) |
 | Find Pivot Index | 724 | Easy | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Find_Pivot_Index.py) / [Kotlin](https://github.com/kumailn/Algorithms/blob/master/Kotlin/Find_Pivot_Index.kt) | 
-| Best Time to Buy and Sell Stock | 122 | Easy | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Best_Time_to_Buy_and_Sell_Stock.py) | 
+| Best Time to Buy and Sell Stock | 122 | Easy | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Best_Time_to_Buy_and_Sell_Stock.py) | 
 | Shortest Distance | 243 | Easy | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Shortest_Distance.py) | 
 | First Missing Positive | 41 | Hard | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/First_Missing_Positive.py) |
 | Spiral Matrix | 54 |  Medium | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Spiral_Matrix_Traversal.py) |
@@ -26,11 +26,32 @@
 
 
 ## 🧵 Strings
-| Title | Difficulty | Tags | Solution |
-| --- | --- | --- | --- |
-| First Unique Character | Easy | Hash Map | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/First_Unique_Char.py) |
+| Title | Leetcode # | Difficulty | Tags | Solution |
+| --- | --- | --- | --- | --- |
+| First Unique Character | 387 | Easy | String | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/First_Unique_Char.py) |
+| Reverse Words in String | 344 | Easy | String | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Reverse_Words_in_a_String.py) |
+| Reverse Words in String II | 557 | Easy | String | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Reverse_Words_In_String_III.py) |
+| Strobogrammatic Number | 246 | Easy | String | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Strobogrammatic_Number.py) |
+| Valid Anagram | 242 | Easy | Hash Map | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Valid_Anagram.py) |
+| Compare Version Number | 165 | Easy | String | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Compare_Version_Numbers.py) |
+| String To Integer | 8 | Medium | String | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/String_To_Int.py) |
+| Add Binary | 67 | Easy | String | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Add_Binary.py) |
+| Longest Palindromic Substring| 5 | Medium | String | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Longest_Palindrome_Substring.py) |
+| Longest Unique Substring | 3 | Medium | String | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Longest_unique_substring.py) |
+| Text Justification | 68 | Hard | String | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Text_Justification.py) |
+| Minimum Window Substring | 76 | Hard | String | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Minimum_Window_Substring.py) |
 
-## 🌲 Trees
-| Title | Difficulty | Tags | Solution |
-| --- | --- | --- | --- |
-| Inorder Traversal | Easy | Recursive, Stack | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/BT_Inorder_Traversal.py)
+## 📈 Graph
+| Title | Leetcode # | Difficulty | Tags | Solution |
+| --- | --- | --- | --- | --- |
+| Number Of Islands | 200 | Medium | DFS | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Number_Of_Islands.py) / [C](https://github.com/kumailn/Algorithms/blob/master/C/Number_Of_Islands.c) |
+| Flood Fill | 733 | Easy | DFS | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Flood_Fill.py) |
+| Graph Valid Tree  | 261 | Easy | Graph | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Graph_Is_Tree.py) |
+| Number of Connected Components in an Undirected Graph | 323 | Medium | DFS | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Connected_Components_In_Undirected_Graph.py) |
+| Topological Sort | - | Medium | Graph | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Topological_Sort.py) |
+| Validate DAG | - | Medium | Graph | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Validate_DAG.py) |
+| Redundant Connection | 684 | Medium | Graph | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Redundant_Connection.py) |
+| Course Schedule | 207 | Medium | Top Sort | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Course_Schedule.py) |
+| Course Schedule II | 210 | Medium | Top Sort | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Course_Schedule_II.py) |
+
+
