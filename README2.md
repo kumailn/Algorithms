@@ -41,6 +41,22 @@
 | Text Justification | 68 | Hard | String | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Text_Justification.py) |
 | Minimum Window Substring | 76 | Hard | String | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Minimum_Window_Substring.py) |
 
+## 🔗 Linked Lists 
+| Title | Leetcode # | Difficulty | Tags | Solution |
+| --- | --- | --- | --- | --- |
+| Reverse Linked List | 206 | Easy | Linked List | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Reverse_Linked_List.py) |
+| Merge Linked List | - | Easy | Linked List | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Merge_Linked_List.py) |
+| Add Two Numbers | 2 | Medium | Linked List | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Add_Two_Numbers.py) |
+| Delete Node From Linked List | 237 | Easy | Linked List | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Delete_Node_From_Linked_List.py) |
+
+
+## 💯 Bitwise
+| Title | Leetcode # | Difficulty | Tags | Solution |
+| --- | --- | --- | --- | --- |
+| Number of 1 Bits | 191 | Easy | Bitwise | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Hamming_Weight.py) / [C](https://github.com/kumailn/Algorithms/blob/master/C/Hamming_Weight.c) |
+| Hamming Distance | 461 | Easy | Bitwise | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Hamming_Distance.py) |
+| Single Number | 91 | Easy | Bitwise | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Single_Number.py) |
+
 ## 📈 Graph
 | Title | Leetcode # | Difficulty | Tags | Solution |
 | --- | --- | --- | --- | --- |
@@ -54,4 +70,15 @@
 | Course Schedule | 207 | Medium | Top Sort | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Course_Schedule.py) |
 | Course Schedule II | 210 | Medium | Top Sort | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Course_Schedule_II.py) |
 
+## ⚒️ Divide and Conquer
+| Title | Leetcode # | Difficulty | Tags | Solution |
+| --- | --- | --- | --- | --- |
+| Number of Inversions | - | Medium | D & C | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Count_Inversions.py) |
+| Majority Element | - | Medium | D & C | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Majority_Element.py) |
 
+## 🤖 Dynamic Programming 
+| Title | Leetcode # | Difficulty | Tags | Solution |
+| --- | --- | --- | --- | --- |
+| Climbing Stairs | 70 | Easy | DP | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Coin_Change.py) |
+| Coin Change | 518 | Medium | DP | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Number_Of_Islands.py) |
+| Decode Ways | 91 | Medium | DP | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Decode_Ways.py) |
