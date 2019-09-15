@@ -23,29 +23,31 @@
 | Three Sum | - | Medium | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/First_Missing_Positive.py) |
 | Maximum Size Subarray Sum Equals K | 325 | Medium | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Maximum_Size_Subarray_Sum_Equals_k.py) |
 | Product of Array Except Self | 238 | Medium | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Product_of_Array_Except_Self.py) |
+| Trapping Rain Water | 42 | Hard | Array, Two Pointer | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Trapping_Rain_Water.py) |
 
 
 ## 🧵 Strings
 | Title | Leetcode # | Difficulty | Tags | Solution |
 | --- | --- | --- | --- | --- |
-| First Unique Character | 387 | Easy | String | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/First_Unique_Char.py) |
+| First Unique Character | 387 | Easy | String, Hash Map | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/First_Unique_Char.py) |
 | Reverse Words in String | 344 | Easy | String | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Reverse_Words_in_a_String.py) |
 | Reverse Words in String II | 557 | Easy | String | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Reverse_Words_In_String_III.py) |
 | Strobogrammatic Number | 246 | Easy | String | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Strobogrammatic_Number.py) |
 | Valid Anagram | 242 | Easy | Hash Map | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Valid_Anagram.py) |
 | Compare Version Number | 165 | Easy | String | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Compare_Version_Numbers.py) |
 | String To Integer | 8 | Medium | String | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/String_To_Int.py) |
+| One Edit Distance | 161 | Medium | String | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/One_Edit_Distance.py) |
 | Add Binary | 67 | Easy | String | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Add_Binary.py) |
 | Longest Palindromic Substring| 5 | Medium | String | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Longest_Palindrome_Substring.py) |
 | Longest Unique Substring | 3 | Medium | String | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Longest_unique_substring.py) |
-| Text Justification | 68 | Hard | String | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Text_Justification.py) |
+| Text Justification | 68 | Hard | String, Scheduling | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Text_Justification.py) |
 | Minimum Window Substring | 76 | Hard | String | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Minimum_Window_Substring.py) |
 
 
 ## 🌲 Trees
 | Title | Leetcode # | Difficulty | Tags | Solution |
 | --- | --- | --- | --- | --- |
-| Inorder Traversal | 94 | Easy | Tree | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/BT_Inorder_Traversal.py) |
+| Inorder Traversal | 94 | Easy | Tree, Recursive, Iterative | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/BT_Inorder_Traversal.py) |
 | Preorder Traversal | - | Easy | Tree | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/BST_Preorder_Traversal.py) |
 | Postorder Traversal | - | Medium | Tree | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/BST_Postorder_Traversal.py) |
 | Inorder Successor | 285 | Medium | Tree | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/BST_InOrder_Successor.py) |
@@ -85,10 +87,10 @@
 ## 📈 Graph
 | Title | Leetcode # | Difficulty | Tags | Solution |
 | --- | --- | --- | --- | --- |
-| Number Of Islands | 200 | Medium | DFS | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Number_Of_Islands.py) / [C](https://github.com/kumailn/Algorithms/blob/master/C/Number_Of_Islands.c) |
-| Flood Fill | 733 | Easy | DFS | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Flood_Fill.py) |
+| Number Of Islands | 200 | Medium | Depth First Search | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Number_Of_Islands.py) / [C](https://github.com/kumailn/Algorithms/blob/master/C/Number_Of_Islands.c) |
+| Flood Fill | 733 | Easy | Depth First Search | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Flood_Fill.py) |
 | Graph Valid Tree  | 261 | Easy | Graph | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Graph_Is_Tree.py) |
-| Number of Connected Components in an Undirected Graph | 323 | Medium | DFS | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Connected_Components_In_Undirected_Graph.py) |
+| Number of Connected Components in an Undirected Graph | 323 | Medium | Depth First Search | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Connected_Components_In_Undirected_Graph.py) |
 | Topological Sort | - | Medium | Graph | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Topological_Sort.py) |
 | Validate DAG | - | Medium | Graph | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Validate_DAG.py) |
 | Redundant Connection | 684 | Medium | Graph | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Redundant_Connection.py) |
@@ -104,13 +106,13 @@
 ## ⚒️ Divide and Conquer
 | Title | Leetcode # | Difficulty | Tags | Solution |
 | --- | --- | --- | --- | --- |
-| Number of Inversions | - | Medium | D & C | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Count_Inversions.py) |
-| Majority Element | - | Medium | D & C | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Majority_Element.py) |
+| Number of Inversions | - | Medium | Divide and Conquer | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Count_Inversions.py) |
+| Majority Element | - | Medium | Divide and Conquer | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Majority_Element.py) |
 
 
 ## 🤖 Dynamic Programming 
 | Title | Leetcode # | Difficulty | Tags | Solution |
 | --- | --- | --- | --- | --- |
-| Climbing Stairs | 70 | Easy | DP | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Coin_Change.py) |
-| Coin Change | 518 | Medium | DP | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Number_Of_Islands.py) |
-| Decode Ways | 91 | Medium | DP | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Decode_Ways.py) |
+| Climbing Stairs | 70 | Easy | Dynamic Programming | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Coin_Change.py) |
+| Coin Change | 518 | Medium | Dynamic Programming | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Number_Of_Islands.py) |
+| Decode Ways | 91 | Medium | Dynamic Programming | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Decode_Ways.py) |
