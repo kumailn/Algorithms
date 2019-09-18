@@ -29,7 +29,7 @@
 ## 🧵 Strings
 | Title | Leetcode # | Difficulty | Tags | Solution |
 | --- | --- | --- | --- | --- |
-| First Unique Character | 387 | Easy | String, Hash Map | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/First_Unique_Char.py) |
+| First Unique Character in a String | 387 | Easy | String, Hash Map | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/First_Unique_Char.py) / [Javascript](https://github.com/kumailn/Algorithms/blob/master/Javascript/First_Unique_Char.js) / [Dart](https://github.com/kumailn/Algorithms/blob/master/Dart/First_Unique_Char.dart) |
 | Reverse Words in String | 344 | Easy | String | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Reverse_Words_in_a_String.py) |
 | Reverse Words in String II | 557 | Easy | String | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Reverse_Words_In_String_III.py) |
 | Strobogrammatic Number | 246 | Easy | String | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Strobogrammatic_Number.py) |
