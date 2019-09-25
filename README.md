@@ -1,6 +1,6 @@
 # 🆘 Algorithms 
-- *A lot of leetcode problems with their most optimal solutions explained in detail!* 
-[![HitCount](http://hits.dwyl.io/kumailn/Algorithms.svg)](http://hits.dwyl.io/kumailn/Algorithms)
+- **A lot of leetcode problems with their most optimal solutions explained in detail!**
+- [![HitCount](http://hits.dwyl.io/kumailn/Algorithms.svg)](http://hits.dwyl.io/kumailn/Algorithms)
 
 ## Arrays
 | Title | Leetcode # | Difficulty | Tags | Solution |
