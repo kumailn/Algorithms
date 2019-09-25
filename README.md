@@ -1,8 +1,9 @@
-# 🆘 Algorithms 
-- **A lot of leetcode problems with their most optimal solutions explained in detail!**
-- [![HitCount](http://hits.dwyl.io/kumailn/Algorithms.svg)](http://hits.dwyl.io/kumailn/Algorithms)
+# 🆘 Algorithms 🆘
+* **A lot of leetcode problems with their most optimal solutions explained in detail!**
+  - The order questions are listed in is on purpose and is reccomended to follow
+  - [![HitCount](http://hits.dwyl.io/kumailn/Algorithms.svg)](http://hits.dwyl.io/kumailn/Algorithms)
 
-## Arrays
+## 📚Arrays
 | Title | Leetcode # | Difficulty | Tags | Solution |
 | --- | --- | --- | --- | --- |
 | Plus One | 66 | Easy | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Plus_One.py) / [Dart](https://github.com/kumailn/Algorithms/blob/master/Dart/Plus_One.dart) / [Rust](https://github.com/kumailn/Algorithms/blob/master/Rust/Plus_One.rs) / [Javascript](https://github.com/kumailn/Algorithms/blob/master/Javascript/Plus_One.js) | 
