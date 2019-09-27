@@ -14,6 +14,7 @@
 | Find Pivot Index | 724 | Easy | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Find_Pivot_Index.py) / [Kotlin](https://github.com/kumailn/Algorithms/blob/master/Kotlin/Find_Pivot_Index.kt) | 
 | Best Time to Buy and Sell Stock | 122 | Easy | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Best_Time_to_Buy_and_Sell_Stock.py) | 
 | Shortest Distance | 243 | Easy | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Shortest_Distance.py) | 
+| ZigZag Conversion | 6 | Medium | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/ZigZag_Conversion.py) | 
 | First Missing Positive | 41 | Hard | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/First_Missing_Positive.py) |
 | Spiral Matrix | 54 |  Medium | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Spiral_Matrix_Traversal.py) |
 | Sorted Two Sum | 167 | Easy | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Two_Sum_Sorted.py) |
