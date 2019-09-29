@@ -21,6 +21,7 @@
 | K Difference Pairs | 532 | Easy | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/K_difference_pairs.py) |
 | K Difference Uniqie Pairs | - | Easy | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/K_Diff_Unique_Pairs.py) |
 | Increasing Triplet Subsequence | 334 | Medium | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Increasing_Triplet_Subsequence.py) |
+| Find First and Last Position of Element in Sorted Array | 34 | Medium | Array, Binary Search | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Find_First_and_Last_Position_of_Element_in_Sorted_Array.py) |
 | Merge Intervals | 56 |  Easy | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Merge_Intervals.py) |
 | Valid Sudoku | 36 | Medium | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Three_Sum.py) |
 | Three Sum | - | Medium | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/First_Missing_Positive.py) |
