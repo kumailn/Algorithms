@@ -106,6 +106,11 @@
 | --- | --- | --- | --- | --- |
 | Merge Sort | - | Easy | Sorting | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Merge_Sort.py) |
 
+## 🔍Searching
+| Title | Leetcode # | Difficulty | Tags | Solution |
+| --- | --- | --- | --- | --- |
+| Find First and Last Position of Element in Sorted Array | 34 | Medium | Array, Binary Search | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Find_First_and_Last_Position_of_Element_in_Sorted_Array.py) |
+
 
 ## ⚒️ Divide and Conquer
 | Title | Leetcode # | Difficulty | Tags | Solution |
