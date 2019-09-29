@@ -1,7 +1,7 @@
 from _DATATYPES import ListNode
-#Question: Given two numbers in the form of linked lists, add them
-#Solution: Loop until the first list, second list or a carry exists, add accordingly 
-#Difficulty: Easy
+# Question: Given two numbers in the form of linked lists, add them
+# Solution: Loop until the first list, second list or a carry exists, add accordingly 
+# Difficulty: Easy
 
 def addTwoNumbers(l1, l2):
         #Initialize variable to hold the carryover from an addition

@@ -13,7 +13,6 @@ def convert(s: str, numRows: int) -> str:
     if numRows == 1: return s
     
     i, step = 0, 1
-    
     rows = [""] * numRows
     
     for letter in s:
@@ -27,5 +26,5 @@ def convert(s: str, numRows: int) -> str:
 
         # Reverse the step when we reach a upper or lower boundary
         if i == 0 or i == numRows - 1: step *= -1
-        
+
     return "".join(rows)

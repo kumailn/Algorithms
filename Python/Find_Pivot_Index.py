@@ -5,25 +5,16 @@
 # Space Complexity: O(1)
 # Time Complexity: O(n)
 
+from typing import List
 
-def pivot(nums):
-    if not nums:
+def pivotIndex(self, nums: List[int]) -> int:
+        leftSum = 0
+        rightSum = sum(nums)
+        
+        for i, v in enumerate(nums):
+            rightSum -= v     
+            if leftSum == rightSum: return i
+            leftSum += v
+            
         return -1
 
-    leftSum, rightSum = 0, sum(nums)
-
-    for i in range(len(nums)):
-        rightSum -= nums[i]
-        if(leftSum == rightSum):
-            return i
-
-        leftSum += nums[i]
-
-    return -1
-
-
-def main():
-    print(pivot([1, 7, 3, 6, 5, 6]))
-
-
-main()
