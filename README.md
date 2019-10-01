@@ -16,15 +16,15 @@
 | Shortest Distance | 243 | Easy | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Shortest_Distance.py) | 
 | ZigZag Conversion | 6 | Medium | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/ZigZag_Conversion.py) | 
 | First Missing Positive | 41 | Hard | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/First_Missing_Positive.py) |
-| Spiral Matrix | 54 |  Medium | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Spiral_Matrix_Traversal.py) |
+| Spiral Matrix | 54 |  Medium | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Spiral_Matrix.py) |
 | Sorted Two Sum | 167 | Easy | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Two_Sum_Sorted.py) |
 | K Difference Pairs | 532 | Easy | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/K_difference_pairs.py) |
 | K Difference Uniqie Pairs | - | Easy | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/K_Diff_Unique_Pairs.py) |
 | Increasing Triplet Subsequence | 334 | Medium | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Increasing_Triplet_Subsequence.py) |
 | Find First and Last Position of Element in Sorted Array | 34 | Medium | Array, Binary Search | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Find_First_and_Last_Position_of_Element_in_Sorted_Array.py) |
 | Merge Intervals | 56 |  Easy | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Merge_Intervals.py) |
-| Valid Sudoku | 36 | Medium | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Three_Sum.py) |
-| Three Sum | - | Medium | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/First_Missing_Positive.py) |
+| Valid Sudoku | 36 | Medium | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Valid_Sudoku.py) |
+| Three Sum | - | Medium | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Three_Sum.py) |
 | Maximum Size Subarray Sum Equals K | 325 | Medium | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Maximum_Size_Subarray_Sum_Equals_k.py) |
 | Product of Array Except Self | 238 | Medium | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Product_of_Array_Except_Self.py) |
 | Trapping Rain Water | 42 | Hard | Array, Two Pointer | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Trapping_Rain_Water.py) |
