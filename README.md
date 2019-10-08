@@ -70,6 +70,7 @@
 | Convert BST to Greater Tree | 538 | Easy | Tree | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/BST_To_Greater_Tree.py) |
 | Binary Tree Zigzag Level Order Traversal | 103 | Medium | Tree | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Binary_Tree_Zig_Zag_Traversal.py) |
 | Populating Next Right Pointers in Each Node | 116 | Medium | Tree | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Connect_Next_Pointer_Tree.py) |
+| Binary Tree Maximum Path Sum | 124 | Hard | Tree, Recursion | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Binary_Tree_Maximum_Path_Sum.py) |
 
 
 ## 🔗 Linked Lists 
