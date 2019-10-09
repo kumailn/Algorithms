@@ -4,31 +4,31 @@
   - [![HitCount](http://hits.dwyl.io/kumailn/Algorithms.svg)](http://hits.dwyl.io/kumailn/Algorithms)
 
 ## 📚Arrays
-| Title | Leetcode # | Difficulty | Tags | Solution |
-| --- | --- | --- | --- | --- |
-| Plus One | 66 | Easy | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Plus_One.py) / [Dart](https://github.com/kumailn/Algorithms/blob/master/Dart/Plus_One.dart) / [Rust](https://github.com/kumailn/Algorithms/blob/master/Rust/Plus_One.rs) / [Javascript](https://github.com/kumailn/Algorithms/blob/master/Javascript/Plus_One.js) | 
-| Two Sum | 1 | Easy | Array, Hash Map | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Two_Sum.py) / [Kotlin](https://github.com/kumailn/Algorithms/blob/master/Kotlin/Two_Sum.kt) / [Dart](https://github.com/kumailn/Algorithms/tree/master/Dart) / [Rust](https://github.com/kumailn/Algorithms/blob/master/Rust/Two_Sum.rs) / [Javascript](https://github.com/kumailn/Algorithms/blob/master/Javascript/Two_Sum.js) |
-| Valid Parentheses | 20 | Easy | Array, Stack | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Valid_Parentheses.py) |
-| Maximum Subarray | 53 | Easy | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Maximum_Subarray.py) / [Dart](https://github.com/kumailn/Algorithms/blob/master/Dart/Maximum_Sum_Subarray.dart)
-| First Unique Character in a String | 387 | Easy | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/First_Unique_Char.py) / [Javascript](https://github.com/kumailn/Algorithms/blob/master/Javascript/First_Unique_Char.js) / [Dart](https://github.com/kumailn/Algorithms/blob/master/Dart/First_Unique_Char.dart)
-| Move Zeroes | 283 | Easy | Array, Pointer | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Move_Zeroes.py) |
-| Find Pivot Index | 724 | Easy | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Find_Pivot_Index.py) / [Kotlin](https://github.com/kumailn/Algorithms/blob/master/Kotlin/Find_Pivot_Index.kt) | 
-| Best Time to Buy and Sell Stock | 122 | Easy | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Best_Time_to_Buy_and_Sell_Stock.py) | 
-| Shortest Distance | 243 | Easy | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Shortest_Distance.py) | 
-| ZigZag Conversion | 6 | Medium | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/ZigZag_Conversion.py) | 
-| First Missing Positive | 41 | Hard | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/First_Missing_Positive.py) |
-| Spiral Matrix | 54 |  Medium | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Spiral_Matrix.py) |
-| Sorted Two Sum | 167 | Easy | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Two_Sum_Sorted.py) |
-| K Difference Pairs | 532 | Easy | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/K_difference_pairs.py) |
-| K Difference Uniqie Pairs | - | Easy | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/K_Diff_Unique_Pairs.py) |
-| Increasing Triplet Subsequence | 334 | Medium | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Increasing_Triplet_Subsequence.py) |
-| Find First and Last Position of Element in Sorted Array | 34 | Medium | Array, Binary Search | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Find_First_and_Last_Position_of_Element_in_Sorted_Array.py) |
-| Merge Intervals | 56 |  Easy | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Merge_Intervals.py) |
-| Valid Sudoku | 36 | Medium | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Valid_Sudoku.py) |
-| Three Sum | - | Medium | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Three_Sum.py) |
-| Maximum Size Subarray Sum Equals K | 325 | Medium | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Maximum_Size_Subarray_Sum_Equals_k.py) |
-| Product of Array Except Self | 238 | Medium | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Product_of_Array_Except_Self.py) |
-| Trapping Rain Water | 42 | Hard | Array, Two Pointer | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Trapping_Rain_Water.py) |
+| Title | Reccomended Order # | Leetcode # | Difficulty | Tags | Solution |
+| --- | --- | --- | --- | --- | --- |
+| Plus One | 1 | 66 | Easy | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Plus_One.py) / [Dart](https://github.com/kumailn/Algorithms/blob/master/Dart/Plus_One.dart) / [Rust](https://github.com/kumailn/Algorithms/blob/master/Rust/Plus_One.rs) / [Javascript](https://github.com/kumailn/Algorithms/blob/master/Javascript/Plus_One.js) | 
+| Two Sum | 2 | 1 | Easy | Array, Hash Map | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Two_Sum.py) / [Kotlin](https://github.com/kumailn/Algorithms/blob/master/Kotlin/Two_Sum.kt) / [Dart](https://github.com/kumailn/Algorithms/tree/master/Dart) / [Rust](https://github.com/kumailn/Algorithms/blob/master/Rust/Two_Sum.rs) / [Javascript](https://github.com/kumailn/Algorithms/blob/master/Javascript/Two_Sum.js) |
+| Valid Parentheses | 3 | 20 | Easy | Array, Stack | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Valid_Parentheses.py) |
+| Maximum Subarray | 4 | 53 | Easy | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Maximum_Subarray.py) / [Dart](https://github.com/kumailn/Algorithms/blob/master/Dart/Maximum_Sum_Subarray.dart)
+| First Unique Character in a String | 5 | 387 | Easy | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/First_Unique_Char.py) / [Javascript](https://github.com/kumailn/Algorithms/blob/master/Javascript/First_Unique_Char.js) / [Dart](https://github.com/kumailn/Algorithms/blob/master/Dart/First_Unique_Char.dart)
+| Move Zeroes | 6 | 283 | Easy | Array, Pointer | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Move_Zeroes.py) |
+| Find Pivot Index | 7 | 724 | Easy | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Find_Pivot_Index.py) / [Kotlin](https://github.com/kumailn/Algorithms/blob/master/Kotlin/Find_Pivot_Index.kt) | 
+| Best Time to Buy and Sell Stock | 8 | 122 | Easy | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Best_Time_to_Buy_and_Sell_Stock.py) | 
+| Shortest Distance | 9 | 243 | Easy | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Shortest_Distance.py) | 
+| ZigZag Conversion | 10 | 6 | Medium | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/ZigZag_Conversion.py) | 
+| First Missing Positive | 11 | 41 | Hard | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/First_Missing_Positive.py) |
+| Spiral Matrix | 12 | 54 |  Medium | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Spiral_Matrix.py) |
+| Sorted Two Sum | 13 | 167 | Easy | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Two_Sum_Sorted.py) |
+| K Difference Pairs | 14 | 532 | Easy | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/K_difference_pairs.py) |
+| K Difference Uniqie Pairs | 15 | - | Easy | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/K_Diff_Unique_Pairs.py) |
+| Increasing Triplet Subsequence | 16 | 334 | Medium | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Increasing_Triplet_Subsequence.py) |
+| Find First and Last Position of Element in Sorted Array | 17 | 34 | Medium | Array, Binary Search | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Find_First_and_Last_Position_of_Element_in_Sorted_Array.py) |
+| Merge Intervals | 18 | 56 |  Easy | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Merge_Intervals.py) |
+| Valid Sudoku | 19 |36 | Medium | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Valid_Sudoku.py) |
+| Three Sum | 20 | - | Medium | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Three_Sum.py) |
+| Maximum Size Subarray Sum Equals K | 21 | 325 | Medium | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Maximum_Size_Subarray_Sum_Equals_k.py) |
+| Product of Array Except Self | 22 | 238 | Medium | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Product_of_Array_Except_Self.py) |
+| Trapping Rain Water | 23 | 42 | Hard | Array, Two Pointer | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Trapping_Rain_Water.py) |
 
 
 ## 🧵 Strings
@@ -52,12 +52,14 @@
 ## 🌲 Trees
 | Title | Leetcode # | Difficulty | Tags | Solution |
 | --- | --- | --- | --- | --- |
-| Inorder Traversal | 94 | Easy | Tree, Recursive, Iterative | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/BT_Inorder_Traversal.py) |
+| Binary Tree Inorder Traversal | 94 | Easy | Tree, Recursive, Iterative | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Binary_Tree_Inorder_Traversal.py) |
 | Preorder Traversal | - | Easy | Tree | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/BST_Preorder_Traversal.py) |
 | Postorder Traversal | - | Medium | Tree | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/BST_Postorder_Traversal.py) |
 | Inorder Successor | 285 | Medium | Tree | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/BST_InOrder_Successor.py) |
+| Closest Binary Search Tree Value | 270 | Tree, BST Search | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Closest_Binary_Search_Tree_Value.py) |
 | Binary Tree Level Order Traversal | 102 | Medium | Tree | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Binary_Tree_Level_Order_Traversal.py) |
 | Validate Binary Search Tree | 98 | Medium | Tree | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Validate_Binary_Tree.py) |
+| Kth Smallest Element in a BST | 230 | Medium | Tree | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Kth_Smallest_Element_in_a_BST.py) |
 | Same Tree | 100 | Easy | Tree | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Same_Tree.py) |
 | Invert Binary Tree | 226 | Easy | Tree | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Invert_Binary_Tree.py) |
 | Symmetric Tree | 101 | Easy | Tree | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Symmetric_Tree.py) |
