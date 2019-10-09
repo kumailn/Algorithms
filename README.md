@@ -44,7 +44,7 @@
 | One Edit Distance | 161 | Medium | String | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/One_Edit_Distance.py) |
 | Add Binary | 67 | Easy | String | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Add_Binary.py) |
 | Longest Palindromic Substring| 5 | Medium | String | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Longest_Palindrome_Substring.py) |
-| Longest Unique Substring | 3 | Medium | String | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Longest_unique_substring.py) |
+| Longest Substring Without Repeating Characters | 3 | Medium | String | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Longest_Substring_Without_Repeating_Characters.py) |
 | Text Justification | 68 | Hard | String, Scheduling | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Text_Justification.py) |
 | Minimum Window Substring | 76 | Hard | String | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Minimum_Window_Substring.py) |
 
