@@ -6,7 +6,7 @@
 ## 📚Arrays
 | Title | Reccomended Order # | Leetcode # | Difficulty | Tags | Solution |
 | --- | --- | --- | --- | --- | --- |
-| Plus One | 1 | 66 | Easy | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Plus_One.py) / [Dart](https://github.com/kumailn/Algorithms/blob/master/Dart/Plus_One.dart) / [Rust](https://github.com/kumailn/Algorithms/blob/master/Rust/Plus_One.rs) / [Javascript](https://github.com/kumailn/Algorithms/blob/master/Javascript/Plus_One.js) | 
+| Plus One | 1 | 66 | Easy | Array | [Python](Python/Plus_One.py) / [Dart](https://github.com/kumailn/Algorithms/blob/master/Dart/Plus_One.dart) / [Rust](https://github.com/kumailn/Algorithms/blob/master/Rust/Plus_One.rs) / [Javascript](https://github.com/kumailn/Algorithms/blob/master/Javascript/Plus_One.js) | 
 | Two Sum | 2 | 1 | Easy | Array, Hash Map | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Two_Sum.py) / [Kotlin](https://github.com/kumailn/Algorithms/blob/master/Kotlin/Two_Sum.kt) / [Dart](https://github.com/kumailn/Algorithms/tree/master/Dart) / [Rust](https://github.com/kumailn/Algorithms/blob/master/Rust/Two_Sum.rs) / [Javascript](https://github.com/kumailn/Algorithms/blob/master/Javascript/Two_Sum.js) |
 | Valid Parentheses | 3 | 20 | Easy | Array, Stack | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Valid_Parentheses.py) |
 | Maximum Subarray | 4 | 53 | Easy | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Maximum_Subarray.py) / [Dart](https://github.com/kumailn/Algorithms/blob/master/Dart/Maximum_Sum_Subarray.dart)
