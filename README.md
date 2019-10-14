@@ -76,12 +76,12 @@
 
 
 ## 🔗 Linked Lists 
-| Title | Leetcode # | Difficulty | Tags | Solution |
-| --- | --- | --- | --- | --- |
-| Reverse Linked List | 206 | Easy | Linked List | [Python](Python/Reverse_Linked_List.py) |
-| Merge Linked List | - | Easy | Linked List | [Python](Python/Merge_Linked_List.py) |
-| Add Two Numbers | 2 | Medium | Linked List | [Python](Python/Add_Two_Numbers.py) |
-| Delete Node From Linked List | 237 | Easy | Linked List | [Python](Python/Delete_Node_From_Linked_List.py) |
+| Title | Reccomended Order # | Leetcode # | Difficulty | Tags | Solution |
+| --- | --- | --- | --- | --- | -- |
+| Reverse Linked List | 1 | 206 | Easy | Linked List | [Python](Python/Reverse_Linked_List.py) |
+| Merge Linked List | 2 | - | Easy | Linked List | [Python](Python/Merge_Linked_List.py) |
+| Add Two Numbers | 3 |  2 | Medium | Linked List | [Python](Python/Add_Two_Numbers.py) |
+| Delete Node From Linked List | 4 | 237 | Easy | Linked List | [Python](Python/Delete_Node_From_Linked_List.py) |
 
 
 ## 💯 Bitwise
@@ -111,27 +111,27 @@
 | Merge Sort | - | Easy | Sorting | [Python](/Python/Merge_Sort.py) |
 
 ## 🔍Searching
-| Title | Leetcode # | Difficulty | Tags | Solution |
-| --- | --- | --- | --- | --- |
-| Find First and Last Position of Element in Sorted Array | 34 | Medium | Array, Binary Search | [Python](Python/Find_First_and_Last_Position_of_Element_in_Sorted_Array.py) |
+| Title | Reccomended Order # | Leetcode # | Difficulty | Tags | Solution |
+| --- | --- | --- | --- | --- | -- |
+| Find First and Last Position of Element in Sorted Array | 1 | 34 | Medium | Array, Binary Search | [Python](Python/Find_First_and_Last_Position_of_Element_in_Sorted_Array.py) |
 
 
 ## ⚒️ Divide and Conquer
 | Title | Reccomended Order # | Leetcode # | Difficulty | Tags | Solution |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | -- |
 | Pow(x, n) | 1 | [50](https://leetcode.com/problems/powx-n/) | Medium | Divide and Conquer, Recursion |  [Python](Python/Pow(x%2C%20n).py) |
 | Number of Inversions | - | - | Medium | Divide and Conquer | [Python](Python/Count_Inversions.py) |
 | Majority Element | - | - | Medium | Divide and Conquer | [Python](Python/Majority_Element.py) |
 
 
 ## 🤖 Dynamic Programming 
-| Title | Leetcode # | Difficulty | Tags | Solution |
-| --- | --- | --- | --- | --- |
-| Climbing Stairs | 70 | Easy | Dynamic Programming | [Python](Python/Coin_Change.py) |
-| Coin Change | 518 | Medium | Dynamic Programming | [Python](Python/Number_Of_Islands.py) |
-| Decode Ways | 91 | Medium | Dynamic Programming | [Python](Python/Decode_Ways.py) |
+| Title | Reccomended Order # | Leetcode # | Difficulty | Tags | Solution |
+| --- | --- | --- | --- | --- | -- |
+| Climbing Stairs | 1 | 70 | Easy | Dynamic Programming | [Python](Python/Coin_Change.py) |
+| Coin Change | 2 | 518 | Medium | Dynamic Programming | [Python](Python/Number_Of_Islands.py) |
+| Decode Ways | 3 | 91 | Medium | Dynamic Programming | [Python](Python/Decode_Ways.py) |
 
 ## 🎨 Design 
 | Title | Reccomended Order # | Leetcode # | Difficulty | Tags | Solution |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | -- |
 | LRU Cache | 1 | [146](https://leetcode.com/problems/lru-cache/) | Medium | Linked List, Hashmap | [Python](Python/LRU_Cache.py) |
