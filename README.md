@@ -27,9 +27,9 @@
 | Valid Sudoku | 19 |36 | Medium | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Valid_Sudoku.py) |
 | Three Sum | 20 | - | Medium | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Three_Sum.py) |
 | Maximum Size Subarray Sum Equals K | 21 | 325 | Medium | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Maximum_Size_Subarray_Sum_Equals_k.py) |
-| Product of Array Except Self | 22 | 238 | Medium | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Product_of_Array_Except_Self.py) |
+| Product of Array Except Self | 22 | 238 | Medium | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Product_of_Array_Except_Self.py)|
 | Trapping Rain Water | 23 | 42 | Hard | Array, Two Pointer | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Trapping_Rain_Water.py) |
-
+| Longest Consecutive Sequence | 24 | [128](https://leetcode.com/problems/longest-consecutive-sequence/) | Hard | Array | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Longest_Consecutive_Sequence.py) |
 
 ## 🧵 Strings
 | Title | Leetcode # | Difficulty | Tags | Solution |
@@ -108,7 +108,7 @@
 ## 🗃️ Sorting
 | Title | Leetcode # | Difficulty | Tags | Solution |
 | --- | --- | --- | --- | --- |
-| Merge Sort | - | Easy | Sorting | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Merge_Sort.py) |
+| Merge Sort | - | Easy | Sorting | [Python](/Python/Merge_Sort.py) |
 
 ## 🔍Searching
 | Title | Leetcode # | Difficulty | Tags | Solution |
@@ -117,11 +117,11 @@
 
 
 ## ⚒️ Divide and Conquer
-| Title | Leetcode # | Difficulty | Tags | Solution |
+| Title | Reccomended Order # | Leetcode # | Difficulty | Tags | Solution |
 | --- | --- | --- | --- | --- |
-| Pow(x, n) | [50](https://leetcode.com/problems/powx-n/) | Medium | Divide and Conquer, Recursion |  [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Pow(x%2C%20n).py) |
-| Number of Inversions | - | Medium | Divide and Conquer | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Count_Inversions.py) |
-| Majority Element | - | Medium | Divide and Conquer | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Majority_Element.py) |
+| Pow(x, n) | 1 | [50](https://leetcode.com/problems/powx-n/) | Medium | Divide and Conquer, Recursion |  [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Pow(x%2C%20n).py) |
+| Number of Inversions | - | - | Medium | Divide and Conquer | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Count_Inversions.py) |
+| Majority Element | - | - | Medium | Divide and Conquer | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Majority_Element.py) |
 
 
 ## 🤖 Dynamic Programming 
@@ -130,3 +130,8 @@
 | Climbing Stairs | 70 | Easy | Dynamic Programming | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Coin_Change.py) |
 | Coin Change | 518 | Medium | Dynamic Programming | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Number_Of_Islands.py) |
 | Decode Ways | 91 | Medium | Dynamic Programming | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Decode_Ways.py) |
+
+## 🎨 Design 
+| Title | Reccomended Order # | Leetcode # | Difficulty | Tags | Solution |
+| --- | --- | --- | --- | --- |
+| LRU Cache | 1 | [146](https://leetcode.com/problems/lru-cache/) | Medium | Linked List, Hashmap | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/LRU_Cache.py) |
