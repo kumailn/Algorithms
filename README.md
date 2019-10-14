@@ -56,7 +56,7 @@
 | Preorder Traversal | - | Easy | Tree | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/BST_Preorder_Traversal.py) |
 | Postorder Traversal | - | Medium | Tree | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/BST_Postorder_Traversal.py) |
 | Inorder Successor | 285 | Medium | Tree | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/BST_InOrder_Successor.py) |
-| Closest Binary Search Tree Value | 270 | Tree, BST Search | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Closest_Binary_Search_Tree_Value.py) |
+| Closest Binary Search Tree Value | Easy | 270 | Tree, BST Search | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Closest_Binary_Search_Tree_Value.py) |
 | Binary Tree Level Order Traversal | 102 | Medium | Tree | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Binary_Tree_Level_Order_Traversal.py) |
 | Validate Binary Search Tree | 98 | Medium | Tree | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Validate_Binary_Tree.py) |
 | Kth Smallest Element in a BST | 230 | Medium | Tree | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Kth_Smallest_Element_in_a_BST.py) |
@@ -119,6 +119,7 @@
 ## ⚒️ Divide and Conquer
 | Title | Leetcode # | Difficulty | Tags | Solution |
 | --- | --- | --- | --- | --- |
+| Pow(x, n) | [50](https://leetcode.com/problems/powx-n/) | Medium | Divide and Conquer, Recursion |  [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Pow(x,+n).py) |
 | Number of Inversions | - | Medium | Divide and Conquer | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Count_Inversions.py) |
 | Majority Element | - | Medium | Divide and Conquer | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Majority_Element.py) |
 
