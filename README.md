@@ -119,7 +119,7 @@
 ## ⚒️ Divide and Conquer
 | Title | Leetcode # | Difficulty | Tags | Solution |
 | --- | --- | --- | --- | --- |
-| Pow(x, n) | [50](https://leetcode.com/problems/powx-n/) | Medium | Divide and Conquer, Recursion |  [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Pow(x,+n).py) |
+| Pow(x, n) | [50](https://leetcode.com/problems/powx-n/) | Medium | Divide and Conquer, Recursion |  [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Pow(x%2C%20n).py) |
 | Number of Inversions | - | Medium | Divide and Conquer | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Count_Inversions.py) |
 | Majority Element | - | Medium | Divide and Conquer | [Python](https://github.com/kumailn/Algorithms/blob/master/Python/Majority_Element.py) |
 
