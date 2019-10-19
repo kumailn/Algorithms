@@ -53,7 +53,8 @@
 | Title | Reccomended Order # | Leetcode # | Difficulty | Tags | Solution |
 | --- | --- | --- | --- | --- | --- |
 | Binary Tree Inorder Traversal | 1 | 94 | Easy | Tree, Recursive, Iterative | [Python](Python/Binary_Tree_Inorder_Traversal.py) |
-| Preorder Traversal | 2 | - | Easy | Tree | [Python](Python/BST_Preorder_Traversal.py) |
+| Insert into a Binary Search Tree | 2 | - | Easy | Tree | [Python](Python/Insert_into_a_Binary_Search_Tree.py) |
+| Preorder Traversal | 3 | - | Easy | Tree | [Python](Python/BST_Preorder_Traversal.py) |
 | Postorder Traversal | 3 | - | Medium | Tree | [Python](Python/BST_Postorder_Traversal.py) |
 | Inorder Successor | 4 | 285 | Medium | Tree | [Python](Python/BST_InOrder_Successor.py) |
 | Closest Binary Search Tree Value | 5 | Easy | 270 | Tree, BST Search | [Python](Python/Closest_Binary_Search_Tree_Value.py) |
