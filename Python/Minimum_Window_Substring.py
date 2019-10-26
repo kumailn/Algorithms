@@ -1,52 +1,46 @@
-def minWindow(s: str, t: str) -> str:
-    
-    #Trivial base case
-    if not s or not t: return ""
-    
-    #Initialize a hashmap with the count of each character in t    
-    #This map denotes the characters we're looking for and their occurances     
-    lookingFor = {t[i]:t.count(t[i]) for i in range(len(t))}
-    
-    #Declare minlen to be ∞
-    minlen = float('inf')
-            
-    #initialize letterCount, localLeft and globalLeft to 0
-    letterCount = localLeft = globalLeft = 0
-    
-    #For every letter in s
-    for i, current in enumerate(s):
-        
-        #If the letter is in the map, subtract 1 from it and increment letterCount if its count is >= 0
-        #This way letterCount records the number of letter's we're looking for that have been found
-        if current in lookingFor: 
-            lookingFor[current] -= 1
-            if lookingFor[current] >= 0: letterCount += 1
-                
-        #While our letterCount is the same as the len of t
-        #Note this block of code will only execute when we've found a substring with all letters in t
-        while letterCount == len(t):
-            
-            #If our (current index - localLeft + 1) is less than minlen
-            #In other words if the length of the substring we've localLeftust found is less than the minimum one we know, we'll update minlen and globalLeft
-            #Note localLeft denotes the leftmost index of our candidate substring and minlen denotes the global leftmost index that results in the shortest substring
-            if i - localLeft + 1 < minlen: globalLeft, minlen = localLeft, i - localLeft + 1
-            
-            #If the leftmost item is in the map, add 1 to it and decrement letterCount if its still > 0
-            #This essentially means we now need to look for this letter again since we're shifting an index that includes a letter we want
-            #We decrement letter count if its value in the map is non-zero to signify we're missing a letter, since letterCount is no longer the same length as t, we also exit the while loop now
-            if s[localLeft] in lookingFor:
-                lookingFor[s[localLeft]] += 1
-                if lookingFor[s[localLeft]] > 0: letterCount -= 1
-            
-            #Keep shifting the localLeft pointer right to find smaller and smaller windows
-            localLeft += 1
-        
-    if minlen > len(s): return "" 
+# Question: Given a string and a list of target letters, find the shortest continious string that has all those letters
+# Solution/Pattern: The intuition here is to try and find the first substring that contains all letters and then try shrinking
+#                   it's left boundary until we lose a character that was required. We contntinue to do this for all characters in 
+#                   the string, hence creating a 'sliding window'
+# Difficulty: Hard
 
-    #Return the substring starting from the globalLeft pointer and ending at + minlen                   
-    return s[globalLeft:globalLeft+minlen]
-            
-def main():
-    print(minWindow('ADOBECODEBANC', 'ABC'))
 
-main()
+def minWindow(self, s: str, t: str) -> str:
+
+        # Initialize the starting point of our starting window
+        start = 0
+        shortest = len(s) + 1
+        # We store the count of each letter needed in a hashmap 
+        lookingFor = collections.Counter(t)
+        # We also store the total number of chars we have left to find
+        charsNeeded = len(t)
+        shortestString = ""
+        
+        for end, v in enumerate(s):
+            # If this char is one we were looking for (one that's present in our target) thenwe need 
+            # to decrement it's count by one indicating we've seen it.
+            # After we've decremented the count we need to check if we've seen it enough times, if the the 
+            # count of the character is less than 0 that means that it's a extra char occuring more times than in t
+            # However, if after decrementing we have a number greater than or equal to 0 then we can say this was one 
+            # of the targets we were lookingFor and decrement our chars needed count  
+            if v in lookingFor:
+                lookingFor[v] -= 1
+                if lookingFor[v] >= 0: charsNeeded -= 1
+
+            # Now, if charsNeeded == 0, we can start shrinking our window from the left
+            # since we don't need any more chars, we know the current string we have from start to end contains 
+            # all the characters present in our target, so we can check if it's length is less than the the one we currently have
+            # if it's length is less, we update the min length we've found so far and then update the shortest string we've found 
+            # Every time we shrink the window we have to check if we're removing a character we actually needed and then update charsNeeded
+            # if we removed a character that was required. Finally we shrink the window from the left by incrementing start
+            while not charsNeeded:
+                if shortest > end - start + 1:
+                    shortest = end - start + 1
+                    shortestString = s[start:end + 1]
+                    
+                if s[start] in lookingFor:
+                    lookingFor[s[start]] += 1
+                    if lookingFor[s[start]] > 0:
+                        charsNeeded += 1
+                start += 1
+        return shortestString

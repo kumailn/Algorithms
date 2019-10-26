@@ -1,41 +1,43 @@
-def findOrder(numCourses, prerequisites):
-        """
-        :type numCourses: int
-        :type prerequisites: List[List[int]]
-        :rtype: List[int]
-        """
-        #Graph of courses directed to their prerequisites 
-        prereqs = {i:[] for i in range(numCourses)}
-        #Graph of courses pointing from prerequisites to next courses
-        dependants = {i:[] for i in range(numCourses)}
-        
-        #Populate both graphs
-        for x, y in prerequisites: 
-            prereqs[x] += [y]
-            dependants[y] += [x]
-        
-        #Initialize a stack populated with courses without any prerequisites
-        stack = [course for course in range(numCourses) if not prereqs[course]]
-        order = []
+# Question(#210): Given the total number of courses and a list of prerequisite pairs, return the ordering of courses you should take to finish all courses.
+# Difficulty: Medium
+# What do I learn from this question? How to implement a general topological sort with cycle checking
 
-        #As long as the stack is not empty 
-        while stack:
-            #Remove the last course from the stack
-            topCourse = stack.pop()
-            #Add the course to the order list as this course has no prerequisites
-            order += [topCourse]
-            #Now we can go through all of this courses dependants (ie courses which are available to take after this one)
-            for dependantCourse in dependants[topCourse]:
-                #Remove top course from the prerequisite of the dependant course as it's already been added to our ordering
-                prereqs[dependantCourse].remove(topCourse)
-                #If dependant course has no unvisited prerequisites then add it to the stack 
-                if not prereqs[dependantCourse]: stack += [dependantCourse]
-            #Delete the topCourse rom the graph of prerequisites as all of its prerequisites must of been added to the stack now
-            del prereqs[topCourse]
-        #If the graph of prerequisites is not empty by now, then there is no order of courses that are possible to take 
-        return order if not prereqs else []
-
-def main():
-    print(findOrder(4, [[1,0],[2,0],[3,1],[3,2], [0, 3]]))
+def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
+    
+    # Construct the graph by creating a map where each course maps to a list of its prereqs
+    graph = {course: [] for course in range(numCourses)}
+    for a, b in prerequisites: graph[a] += [b]
+    
+    def depthFirst(course, visiting):
+        nonlocal order, graph, visited
         
-main()
+        # If we've fully visited the course before we can skip it, if we were visiting it 
+        # and have come across it again then we know there was a cycle, so return False
+        if course in visited: return True
+        if course in visiting: return False
+        
+        # This is where the DFS starts, so we indicate we are now visiting the current node
+        visiting.add(course)
+        
+        # For every course in the prereq of the current course, we conduct a DFS again, returning
+        # false if our DFS detects a cycle
+        for prereq in graph[course]:
+            if not depthFirst(prereq, visiting): return False
+        
+        # We now add the current course to visited, indicating we've traversed all it's prereqs
+        # We also add the current course to order, because the first time we reach here in our 
+        # recursion stack will be when we reach a course with no prerequisutes
+        visited.add(course)
+        order += [course]
+        return True
+    
+    visited, order = set(), []
+    
+    # Run our DFS on every node in the graph, since our DFS actually returns a boolean 
+    # we can embed cycle checking in the DFS itself and based on that return an empty list 
+    # if a cycle exists in the graph
+    for course in graph:
+        if not (depthFirst(course, set())): return []
+        
+    return order
+        

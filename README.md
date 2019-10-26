@@ -46,7 +46,7 @@
 | Longest Palindromic Substring| 5 | Medium | String | [Python](Python/Longest_Palindrome_Substring.py) |
 | Longest Substring Without Repeating Characters | 3 | Medium | String | [Python](Python/Longest_Substring_Without_Repeating_Characters.py) |
 | Text Justification | 68 | Hard | String, Scheduling | [Python](Python/Text_Justification.py) |
-| Minimum Window Substring | 76 | Hard | String | [Python](Python/Minimum_Window_Substring.py) |
+| Minimum Window Substring | [76](https://leetcode.com/problems/minimum-window-substring) | Hard | String | [Python](Python/Minimum_Window_Substring.py) |
 
 
 ## 🌲 Trees
@@ -96,15 +96,15 @@
 ## 📈 Graph
 | Title | Reccomended Order # | Leetcode # | Difficulty | Tags | Solution |
 | --- | --- | --- | --- | --- | --- |
-| Number Of Islands | 1 | 200 | Medium | Depth First Search | [Python](Python/Number_Of_Islands.py) / [C](C/Number_Of_Islands.c) |
-| Flood Fill | 733 | 2 | Easy | Depth First Search | [Python](Python/Flood_Fill.py) |
-| Graph Valid Tree  | 3 | 261 | Easy | Graph | [Python](Python/Graph_Is_Tree.py) |
-| Number of Connected Components in an Undirected Graph | 4 | 323 | Medium | Depth First Search | [Python](Python/Connected_Components_In_Undirected_Graph.py) |
+| Number Of Islands | 1 | [200](https://leetcode.com/problems/number-of-islands/) | Medium | Depth First Search | [Python](Python/Number_Of_Islands.py) / [C](C/Number_Of_Islands.c) |
+| Flood Fill | 2 | [733](https://leetcode.com/problems/flood-fill/) | Easy | Depth First Search | [Python](Python/Flood_Fill.py) |
+| Graph Valid Tree  | 3 | [261](https://leetcode.com/problems/graph-valid-tree/) | Easy | Graph | [Python](Python/Graph_Is_Tree.py) |
+| Number of Connected Components in an Undirected Graph | 4 | [323](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | Medium | Depth First Search | [Python](Python/Connected_Components_In_Undirected_Graph.py) |
 | Topological Sort | 5 | - | Medium | Graph | [Python](Python/Topological_Sort.py) |
 | Validate DAG | 6 | - | Medium | Graph | [Python](Python/Validate_DAG.py) |
-| Redundant Connection | 7 | 684 | Medium | Graph | [Python](Python/Redundant_Connection.py) |
-| Course Schedule | 8 | 207 | Medium | Top Sort | [Python](Python/Course_Schedule.py) |
-| Course Schedule II | 9 | 210 | Medium | Top Sort | [Python](Python/Course_Schedule_II.py) |
+| Redundant Connection | 7 | [684](https://leetcode.com/problems/redundant-connection/) | Medium | Graph | [Python](Python/Redundant_Connection.py) |
+| Course Schedule | 8 | [207](https://leetcode.com/problems/course-schedule/) | Medium | Top Sort | [Python](Python/Course_Schedule.py) |
+| Course Schedule II | 9 | [210](https://leetcode.com/problems/course-schedule-ii/) | Medium | Top Sort | [Python](Python/Course_Schedule_II.py) |
 
 ## 🗃️ Sorting
 | Title | Leetcode # | Difficulty | Tags | Solution |
