@@ -131,6 +131,8 @@
 | Climbing Stairs | 1 | 70 | Easy | Dynamic Programming | [Python](Python/Coin_Change.py) |
 | Coin Change | 2 | 518 | Medium | Dynamic Programming | [Python](Python/Number_Of_Islands.py) |
 | Decode Ways | 3 | 91 | Medium | Dynamic Programming | [Python](Python/Decode_Ways.py) |
+| Delete Operation for Two Strings | 4 | [583](https://leetcode.com/problems/delete-operation-for-two-strings/) | Medium | Dynamic Programming | [Python](Python/Delete_Operation_for_Two_Strings.py) |
+
 
 ## 🎨 Design 
 | Title | Reccomended Order # | Leetcode # | Difficulty | Tags | Solution |
