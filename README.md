@@ -128,10 +128,12 @@
 ## 🤖 Dynamic Programming 
 | Title | Reccomended Order # | Leetcode # | Difficulty | Tags | Solution |
 | --- | --- | --- | --- | --- | --- |
-| Climbing Stairs | 1 | 70 | Easy | Dynamic Programming | [Python](Python/Coin_Change.py) |
-| Coin Change | 2 | 518 | Medium | Dynamic Programming | [Python](Python/Number_Of_Islands.py) |
-| Decode Ways | 3 | 91 | Medium | Dynamic Programming | [Python](Python/Decode_Ways.py) |
-| Delete Operation for Two Strings | 4 | [583](https://leetcode.com/problems/delete-operation-for-two-strings/) | Medium | Dynamic Programming | [Python](Python/Delete_Operation_for_Two_Strings.py) |
+| Climbing Stairs | 1 | [70](https://leetcode.com/problems/climbing-stairs/) | Easy | Dynamic Programming | [Python](Python/Climbing_Stairs.py) |
+| Coin Change 2 | 2 | [518](https://leetcode.com/problems/coin-change-2/) | Medium | Dynamic Programming | [Python](Python/Coin_Change.py) |
+| Decode Ways | 3 | [91](https://leetcode.com/problems/decode-ways/) | Medium | Dynamic Programming, Top Down | [Python](Python/Decode_Ways.py) |
+| Unique Paths | 4 | [62](https://leetcode.com/problems/unique-paths/) | Medium | Dynamic Programming, Top Down | [Python](Python/Unique_Paths.py) |
+| Delete Operation for Two Strings | 5 | [583](https://leetcode.com/problems/delete-operation-for-two-strings/) | Medium | Dynamic Programming | [Python](Python/Delete_Operation_for_Two_Strings.py) |
+| Edit Distance | 6 | [72](https://leetcode.com/problems/edit-distance/) | Hard | Dynamic Programming, Top Down | [Python](Python/Edit_Distance.py) |
 
 
 ## 🎨 Design 
