@@ -6,29 +6,29 @@
 ## 📚Arrays
 | Title | Reccomended Order # | Leetcode # | Difficulty | Tags | Solution |
 | --- | --- | --- | --- | --- | --- |
-| Plus One | 1 | 66 | Easy | Array | [Python](Python/Plus_One.py) / [Dart](Dart/Plus_One.dart) / [Rust](Rust/Plus_One.rs) / [Javascript](Javascript/Plus_One.js) | 
-| Two Sum | 2 | 1 | Easy | Array, Hash Map | [Python](Python/Two_Sum.py) / [Kotlin](Kotlin/Two_Sum.kt) / [Dart](https://github.com/kumailn/Algorithms/tree/master/Dart) / [Rust](Rust/Two_Sum.rs) / [Javascript](Javascript/Two_Sum.js) |
-| Valid Parentheses | 3 | 20 | Easy | Array, Stack | [Python](Python/Valid_Parentheses.py) |
-| Maximum Subarray | 4 | 53 | Easy | Array | [Python](Python/Maximum_Subarray.py) / [Dart](Dart/Maximum_Sum_Subarray.dart)
-| First Unique Character in a String | 5 | 387 | Easy | Array, Hash Map | [Python](Python/First_Unique_Char.py) / [Javascript](Javascript/First_Unique_Char.js) / [Dart](Dart/First_Unique_Char.dart)
-| Move Zeroes | 6 | 283 | Easy | Array, Pointer | [Python](Python/Move_Zeroes.py) |
-| Find Pivot Index | 7 | 724 | Easy | Array, Sliding Window | [Python](Python/Find_Pivot_Index.py) / [Kotlin](Kotlin/Find_Pivot_Index.kt) | 
-| Best Time to Buy and Sell Stock | 8 | 122 | Easy | Array | [Python](Python/Best_Time_to_Buy_and_Sell_Stock.py) | 
-| Shortest Distance | 9 | 243 | Easy | Array | [Python](Python/Shortest_Distance.py) | 
-| ZigZag Conversion | 10 | 6 | Medium | Array | [Python](Python/ZigZag_Conversion.py) | 
-| First Missing Positive | 11 | 41 | Hard | Array | [Python](Python/First_Missing_Positive.py) |
-| Spiral Matrix | 12 | 54 |  Medium | Array | [Python](Python/Spiral_Matrix.py) |
-| Sorted Two Sum | 13 | 167 | Easy | Array | [Python](Python/Two_Sum_Sorted.py) |
-| K Difference Pairs | 14 | 532 | Easy | Array, Hash Map | [Python](Python/K_difference_pairs.py) |
+| Plus One | 1 | [66](https://leetcode.com/problems/plus-one) | Easy | Array | [Python](Python/Plus_One.py) / [Dart](Dart/Plus_One.dart) / [Rust](Rust/Plus_One.rs) / [Javascript](Javascript/Plus_One.js) | 
+| Two Sum | 2 | [1](https://leetcode.com/problems/two-sum) | Easy | Array, Hash Map | [Python](Python/Two_Sum.py) / [Kotlin](Kotlin/Two_Sum.kt) / [Dart](https://github.com/kumailn/Algorithms/tree/master/Dart) / [Rust](Rust/Two_Sum.rs) / [Javascript](Javascript/Two_Sum.js) |
+| Valid Parentheses | 3 | [20](https://leetcode.com/problems/valid-parentheses) | Easy | Array, Stack | [Python](Python/Valid_Parentheses.py) |
+| Maximum Subarray | 4 | [53](https://leetcode.com/problems/maximum-subarray) | Easy | Array | [Python](Python/Maximum_Subarray.py) / [Dart](Dart/Maximum_Sum_Subarray.dart)
+| First Unique Character in a String | 5 | [387](https://leetcode.com/problems/first-unique-character-in-a-string) | Easy | Array, Hash Map | [Python](Python/First_Unique_Char.py) / [Javascript](Javascript/First_Unique_Char.js) / [Dart](Dart/First_Unique_Char.dart)
+| Move Zeroes | 6 | [283](https://leetcode.com/problems/move-zeroes) | Easy | Array, Pointer | [Python](Python/Move_Zeroes.py) |
+| Find Pivot Index | 7 | [724](https://leetcode.com/problems/find-pivot-index) | Easy | Array, Sliding Window | [Python](Python/Find_Pivot_Index.py) / [Kotlin](Kotlin/Find_Pivot_Index.kt) | 
+| Best Time to Buy and Sell Stock | 8 | [122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Easy | Array | [Python](Python/Best_Time_to_Buy_and_Sell_Stock.py) | 
+| Shortest Word Distance | 9 | [243](https://leetcode.com/problems/shortest-word-distance) | Easy | Array | [Python](Python/Shortest_Distance.py) | 
+| ZigZag Conversion | 10 | [6](https://leetcode.com/problems/zigzag-conversion) | Medium | Array | [Python](Python/ZigZag_Conversion.py) | 
+| First Missing Positive | 11 | [41](https://leetcode.com/problems/first-missing-positive) | Hard | Array | [Python](Python/First_Missing_Positive.py) |
+| Spiral Matrix | 12 | [54](https://leetcode.com/problems/spiral-matrix) |  Medium | Array | [Python](Python/Spiral_Matrix.py) |
+| Sorted Two Sum | 13 | [167](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | Easy | Array | [Python](Python/Two_Sum_Sorted.py) |
+| K-diff Pairs in an Array | 14 | [532](https://leetcode.com/problems/k-diff-pairs-in-an-array) | Easy | Array, Hash Map | [Python](Python/K_difference_pairs.py) |
 | K Difference Uniqie Pairs | 15 | - | Easy | Array | [Python](Python/K_Diff_Unique_Pairs.py) |
-| Increasing Triplet Subsequence | 16 | 334 | Medium | Array | [Python](Python/Increasing_Triplet_Subsequence.py) |
-| Find First and Last Position of Element in Sorted Array | 17 | 34 | Medium | Array, Binary Search | [Python](Python/Find_First_and_Last_Position_of_Element_in_Sorted_Array.py) |
-| Merge Intervals | 18 | 56 |  Easy | Array | [Python](Python/Merge_Intervals.py) |
-| Valid Sudoku | 19 |36 | Medium | Array, Hash Map | [Python](Python/Valid_Sudoku.py) |
+| Increasing Triplet Subsequence | 16 | [334](https://leetcode.com/problems/increasing-triplet-subsequence) | Medium | Array | [Python](Python/Increasing_Triplet_Subsequence.py) |
+| Find First and Last Position of Element in Sorted Array | 17 | [34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | Medium | Array, Binary Search | [Python](Python/Find_First_and_Last_Position_of_Element_in_Sorted_Array.py) |
+| Merge Intervals | 18 | [56](https://leetcode.com/problems/merge-intervals) |  Easy | Array | [Python](Python/Merge_Intervals.py) |
+| Valid Sudoku | 19 | [36](https://leetcode.com/problems/valid-sudoku) | Medium | Array, Hash Map | [Python](Python/Valid_Sudoku.py) |
 | Three Sum | 20 | - | Medium | Array, Two Sum | [Python](Python/Three_Sum.py) |
-| Maximum Size Subarray Sum Equals K | 21 | 325 | Medium | Array, Two Sum | [Python](Python/Maximum_Size_Subarray_Sum_Equals_k.py) |
-| Product of Array Except Self | 22 | 238 | Medium | Array | [Python](Python/Product_of_Array_Except_Self.py)|
-| Trapping Rain Water | 23 | 42 | Hard | Array, Two Pointer | [Python](Python/Trapping_Rain_Water.py) |
+| Maximum Size Subarray Sum Equals K | 21 | [325](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k) | Medium | Array, Two Sum | [Python](Python/Maximum_Size_Subarray_Sum_Equals_k.py) |
+| Product of Array Except Self | 22 | [238](https://leetcode.com/problems/product-of-array-except-self) | Medium | Array | [Python](Python/Product_of_Array_Except_Self.py)|
+| Trapping Rain Water | 23 | [42](https://leetcode.com/problems/trapping-rain-water) | Hard | Array, Two Pointer | [Python](Python/Trapping_Rain_Water.py) |
 | Longest Consecutive Sequence | 24 | [128](https://leetcode.com/problems/longest-consecutive-sequence/) | Hard | Array | [Python](Python/Longest_Consecutive_Sequence.py) |
 
 ## 🧵 Strings
