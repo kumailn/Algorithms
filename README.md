@@ -40,7 +40,7 @@
 | Strobogrammatic Number | 246 | Easy | String | [Python](Python/Strobogrammatic_Number.py) |
 | Valid Anagram | 242 | Easy | Hash Map | [Python](Python/Valid_Anagram.py) |
 | Compare Version Number | 165 | Easy | String | [Python](Python/Compare_Version_Numbers.py) |
-| String To Integer | 8 | Medium | String | [Python](Python/String_To_Int.py) |
+| String To Integer | 8 | Medium | String | [Python](Python/String_to_Integer.py) |
 | One Edit Distance | 161 | Medium | String, Dynamic Programming | [Python](Python/One_Edit_Distance.py) |
 | Add Binary | 67 | Easy | String, Recursion | [Python](Python/Add_Binary.py) |
 | Longest Palindromic Substring| 5 | Medium | String | [Python](Python/Longest_Palindrome_Substring.py) |
@@ -83,6 +83,8 @@
 | Merge Linked List | 2 | - | Easy | Linked List, Recursion | [Python](Python/Merge_Linked_List.py) |
 | Add Two Numbers | 3 |  2 | Medium | Linked List | [Python](Python/Add_Two_Numbers.py) |
 | Delete Node From Linked List | 4 | 237 | Easy | Linked List | [Python](Python/Delete_Node_From_Linked_List.py) |
+| Merge k Sorted Lists | 5 | [23](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | Linked List | [Python](Python/Merge_k_Sorted_Lists.py) |
+
 
 
 ## 💯 Bitwise
