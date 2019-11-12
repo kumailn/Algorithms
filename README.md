@@ -84,6 +84,12 @@
 | Delete Node From Linked List | 4 | 237 | Easy | Linked List | [Python](Python/Delete_Node_From_Linked_List.py) |
 | Merge k Sorted Lists | 5 | [23](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | Linked List, Heap | [Python](Python/Merge_k_Sorted_Lists.py) |
 
+## ⚖️ Heaps 
+| Title | Reccomended Order # | Leetcode # | Difficulty | Tags | Solution |
+| --- | --- | --- | --- | --- | --- |
+| Meeting Rooms II | 1 | [253](https://leetcode.com/problems/meeting-rooms-ii/) | Medium | Heap | [Python](Python/Meeting_Rooms_II.py) |
+
+
 
 
 ## 💯 Bitwise
