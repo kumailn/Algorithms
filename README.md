@@ -30,7 +30,7 @@
 | Product of Array Except Self | 22 | [238](https://leetcode.com/problems/product-of-array-except-self) | Medium | Array | [Python](Python/Product_of_Array_Except_Self.py)|
 | Trapping Rain Water | 23 | [42](https://leetcode.com/problems/trapping-rain-water) | Hard | Array, Two Pointer | [Python](Python/Trapping_Rain_Water.py) |
 | Longest Consecutive Sequence | 24 | [128](https://leetcode.com/problems/longest-consecutive-sequence/) | Hard | Array | [Python](Python/Longest_Consecutive_Sequence.py) |
-| Top K Frequent Elements | 25 | [347](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | Array, Counting Sort, Hashmap | [Python](Python/Top_K_Frequent_Elements.py) |
+| Top K Frequent Elements | 25 | [347](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | Array, Counting Sort, Hashmap, Heap | [Python](Python/Top_K_Frequent_Elements.py) |
 
 
 ## 🧵 Strings
@@ -92,8 +92,6 @@
 | Meeting Rooms II | 1 | [253](https://leetcode.com/problems/meeting-rooms-ii/) | Medium | Heap | [Python](Python/Meeting_Rooms_II.py) |
 
 
-
-
 ## 💯 Bitwise
 | Title | Leetcode # | Difficulty | Tags | Solution |
 | --- | --- | --- | --- | --- |
@@ -127,7 +125,6 @@
 | Search in Rotated Sorted Array | 2 | [33](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | Binary Search | [Python](Python/Search_in_Rotated_Sorted_Array.py) |
 
 
-
 ## ⚒️ Divide and Conquer
 | Title | Reccomended Order # | Leetcode # | Difficulty | Tags | Solution |
 | --- | --- | --- | --- | --- | --- |
@@ -146,6 +143,7 @@
 | Delete Operation for Two Strings | 5 | [583](https://leetcode.com/problems/delete-operation-for-two-strings/) | Medium | Dynamic Programming | [Python](Python/Delete_Operation_for_Two_Strings.py) |
 | Edit Distance | 6 | [72](https://leetcode.com/problems/edit-distance/) | Hard | Dynamic Programming, Top Down | [Python](Python/Edit_Distance.py) |
 | Longest Common Subsequence | 7 | [1143](https://leetcode.com/problems/longest-common-subsequence/) | Hard | Dynamic Programming, Bottom Up | [Python](Python/Longest_Common_Subsequence.py) |
+| Maximum Length of Repeated Subarray | 7 | [718](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | Medium | Dynamic Programming, Bottom Up, Longest Common Subarray | [Python](Python/Maximum_Length_of_Repeated_Subarray.py) |
 
 
 ## 🎨 Design 
