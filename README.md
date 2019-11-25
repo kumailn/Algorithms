@@ -4,7 +4,7 @@
   - [![HitCount](http://hits.dwyl.io/kumailn/Algorithms.svg)](http://hits.dwyl.io/kumailn/Algorithms)
 
 ## 📚Arrays
-| Title | Reccomended Order # | Leetcode # | Difficulty | Tags | Solution |
+| Title | Recommended Order # | Leetcode # | Difficulty | Tags | Solution |
 | --- | --- | --- | --- | --- | --- |
 | Plus One | 1 | [66](https://leetcode.com/problems/plus-one) | Easy | Array | [Python](Python/Plus_One.py) / [Dart](Dart/Plus_One.dart) / [Rust](Rust/Plus_One.rs) / [Javascript](Javascript/Plus_One.js) | 
 | Two Sum | 2 | [1](https://leetcode.com/problems/two-sum) | Easy | Array, Hash Map | [Python](Python/Two_Sum.py) / [Kotlin](Kotlin/Two_Sum.kt) / [Dart](https://github.com/kumailn/Algorithms/tree/master/Dart) / [Rust](Rust/Two_Sum.rs) / [Javascript](Javascript/Two_Sum.js) |
@@ -52,7 +52,7 @@
 
 
 ## 🌲 Trees
-| Title | Reccomended Order # | Leetcode # | Difficulty | Tags | Solution |
+| Title | Recommended Order # | Leetcode # | Difficulty | Tags | Solution |
 | --- | --- | --- | --- | --- | --- |
 | Binary Tree Inorder Traversal | 1 | 94 | Easy | Tree, Recursive, Iterative | [Python](Python/Binary_Tree_Inorder_Traversal.py) |
 | Insert into a Binary Search Tree | 2 | - | Easy | Tree | [Python](Python/Insert_into_a_Binary_Search_Tree.py) |
@@ -78,7 +78,7 @@
 
 
 ## 🔗 Linked Lists 
-| Title | Reccomended Order # | Leetcode # | Difficulty | Tags | Solution |
+| Title | Recommended Order # | Leetcode # | Difficulty | Tags | Solution |
 | --- | --- | --- | --- | --- | --- |
 | Reverse Linked List | 1 | 206 | Easy | Linked List | [Python](Python/Reverse_Linked_List.py) |
 | Merge Linked List | 2 | - | Easy | Linked List, Recursion | [Python](Python/Merge_Linked_List.py) |
@@ -86,8 +86,13 @@
 | Delete Node From Linked List | 4 | 237 | Easy | Linked List | [Python](Python/Delete_Node_From_Linked_List.py) |
 | Merge k Sorted Lists | 5 | [23](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | Linked List, Heap | [Python](Python/Merge_k_Sorted_Lists.py) |
 
+## 🥞 Stack
+| Title | Recommended Order # | Leetcode # | Difficulty | Tags | Solution |
+| --- | --- | --- | --- | --- | --- |
+| Decode String | 1 | [394](https://leetcode.com/problems/decode-string) | Medium | Stack | [Python](Python/Decode_String.py) |
+
 ## ⚖️ Heaps 
-| Title | Reccomended Order # | Leetcode # | Difficulty | Tags | Solution |
+| Title | Recommended Order # | Leetcode # | Difficulty | Tags | Solution |
 | --- | --- | --- | --- | --- | --- |
 | Meeting Rooms II | 1 | [253](https://leetcode.com/problems/meeting-rooms-ii/) | Medium | Heap | [Python](Python/Meeting_Rooms_II.py) |
 
@@ -101,7 +106,7 @@
 
 
 ## 📈 Graph
-| Title | Reccomended Order # | Leetcode # | Difficulty | Tags | Solution |
+| Title | Recommended Order # | Leetcode # | Difficulty | Tags | Solution |
 | --- | --- | --- | --- | --- | --- |
 | Number Of Islands | 1 | [200](https://leetcode.com/problems/number-of-islands/) | Medium | Depth First Search | [Python](Python/Number_Of_Islands.py) / [C](C/Number_Of_Islands.c) |
 | Flood Fill | 2 | [733](https://leetcode.com/problems/flood-fill/) | Easy | Depth First Search | [Python](Python/Flood_Fill.py) |
@@ -119,14 +124,14 @@
 | Merge Sort | - | Easy | Sorting, Recursion | [Python](/Python/Merge_Sort.py) |
 
 ## 🔍Searching
-| Title | Reccomended Order # | Leetcode # | Difficulty | Tags | Solution |
+| Title | Recommended Order # | Leetcode # | Difficulty | Tags | Solution |
 | --- | --- | --- | --- | --- | --- |
 | Find First and Last Position of Element in Sorted Array | 1 | 34 | Medium | Binary Search | [Python](Python/Find_First_and_Last_Position_of_Element_in_Sorted_Array.py) |
 | Search in Rotated Sorted Array | 2 | [33](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | Binary Search | [Python](Python/Search_in_Rotated_Sorted_Array.py) |
 
 
 ## ⚒️ Divide and Conquer
-| Title | Reccomended Order # | Leetcode # | Difficulty | Tags | Solution |
+| Title | Recommended Order # | Leetcode # | Difficulty | Tags | Solution |
 | --- | --- | --- | --- | --- | --- |
 | Pow(x, n) | 1 | [50](https://leetcode.com/problems/powx-n/) | Medium | Divide and Conquer, Recursion |  [Python](Python/Pow(x%2C%20n).py) |
 | Number of Inversions | - | - | Medium | Divide and Conquer | [Python](Python/Count_Inversions.py) |
@@ -134,7 +139,7 @@
 
 
 ## 🤖 Dynamic Programming 
-| Title | Reccomended Order # | Leetcode # | Difficulty | Tags | Solution |
+| Title | Recommended Order # | Leetcode # | Difficulty | Tags | Solution |
 | --- | --- | --- | --- | --- | --- |
 | Climbing Stairs | 1 | [70](https://leetcode.com/problems/climbing-stairs/) | Easy | Dynamic Programming | [Python](Python/Climbing_Stairs.py) |
 | Coin Change 2 | 2 | [518](https://leetcode.com/problems/coin-change-2/) | Medium | Dynamic Programming | [Python](Python/Coin_Change.py) |
@@ -145,8 +150,7 @@
 | Longest Common Subsequence | 7 | [1143](https://leetcode.com/problems/longest-common-subsequence/) | Hard | Dynamic Programming, Bottom Up | [Python](Python/Longest_Common_Subsequence.py) |
 | Maximum Length of Repeated Subarray | 7 | [718](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | Medium | Dynamic Programming, Bottom Up, Longest Common Subarray | [Python](Python/Maximum_Length_of_Repeated_Subarray.py) |
 
-
 ## 🎨 Design 
-| Title | Reccomended Order # | Leetcode # | Difficulty | Tags | Solution |
+| Title | Recommended Order # | Leetcode # | Difficulty | Tags | Solution |
 | --- | --- | --- | --- | --- | --- |
 | LRU Cache | 1 | [146](https://leetcode.com/problems/lru-cache/) | Medium | Linked List, Hashmap | [Python](Python/LRU_Cache.py) |
