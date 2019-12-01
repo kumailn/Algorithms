@@ -75,6 +75,7 @@
 | Binary Tree Zigzag Level Order Traversal | 19 | 103 | Medium | BFS | [Python](Python/Binary_Tree_Zig_Zag_Traversal.py) |
 | Populating Next Right Pointers in Each Node | 20 | 116 | Medium | BFS | [Python](Python/Connect_Next_Pointer_Tree.py) |
 | Binary Tree Maximum Path Sum | 21 | 124 | Hard | DFS, Recursion | [Python](Python/Binary_Tree_Maximum_Path_Sum.py) |
+| Delete Nodes And Return Forest | 22 | [1110](https://leetcode.com/problems/delete-nodes-and-return-forest/) | Medium | DFS, Recursion | [Python](Python/Delete_Nodes_And_Return_Forest.py) |
 
 
 ## 🔗 Linked Lists 
