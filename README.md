@@ -72,10 +72,13 @@
 | Sum Root to Leaf Numbers | 16 | 129 | Medium | DFS, Recursion | [Python](Python/Sum_Root_to_Leaf_Numbers.py) |
 | Flatten Binary Tree to Linked List | 17 | 114 | Medium | Recursion | [Python](Python/BT_Flatten_To.py) |
 | Convert BST to Greater Tree | 18 | 538 | Easy | BFS | [Python](Python/BST_To_Greater_Tree.py) |
-| Binary Tree Zigzag Level Order Traversal | 19 | 103 | Medium | BFS | [Python](Python/Binary_Tree_Zig_Zag_Traversal.py) |
+| Binary Tree Zigzag Level Order Traversal | 19 | 103 | Medium | BFS | [Python](Python/`Binary_Tree_Zig_Zag_Traversal.py) |
 | Populating Next Right Pointers in Each Node | 20 | 116 | Medium | BFS | [Python](Python/Connect_Next_Pointer_Tree.py) |
 | Binary Tree Maximum Path Sum | 21 | 124 | Hard | DFS, Recursion | [Python](Python/Binary_Tree_Maximum_Path_Sum.py) |
 | Delete Nodes And Return Forest | 22 | [1110](https://leetcode.com/problems/delete-nodes-and-return-forest/) | Medium | DFS, Recursion | [Python](Python/Delete_Nodes_And_Return_Forest.py) |
+| Binary Search Tree to Greater Sum Tree | 23 | [1038](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | Medium | In Order | [Python](Python/Binary_Search_Tree_to_Greater_Sum_Tree.py) |
+
+
 
 
 ## 🔗 Linked Lists 
