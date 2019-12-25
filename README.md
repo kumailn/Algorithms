@@ -7,7 +7,7 @@
 | Title | Recommended Order # | Leetcode # | Difficulty | Tags | Solution |
 | --- | --- | --- | --- | --- | --- |
 | Plus One | 1 | [66](https://leetcode.com/problems/plus-one) | Easy | Array | [Python](Python/Plus_One.py) / [Dart](Dart/Plus_One.dart) / [Rust](Rust/Plus_One.rs) / [Javascript](Javascript/Plus_One.js) | 
-| Two Sum | 2 | [1](https://leetcode.com/problems/two-sum) | Easy | Array, Hash Map | [Python](Python/Two_Sum.py) / [Kotlin](Kotlin/Two_Sum.kt) / [Dart](https://github.com/kumailn/Algorithms/tree/master/Dart) / [Rust](Rust/Two_Sum.rs) / [Javascript](Javascript/Two_Sum.js) |
+| Two Sum | 2 | [1](https://leetcode.com/problems/two-sum) | Easy | Array, Hash Map | [Python](Python/Two_Sum.py) / [Go](Go/Two_Sum.go) / [Kotlin](Kotlin/Two_Sum.kt) / [Dart](https://github.com/kumailn/Algorithms/tree/master/Dart) / [Rust](Rust/Two_Sum.rs) / [Javascript](Javascript/Two_Sum.js) |
 | Valid Parentheses | 3 | [20](https://leetcode.com/problems/valid-parentheses) | Easy | Array, Stack | [Python](Python/Valid_Parentheses.py) |
 | Maximum Subarray | 4 | [53](https://leetcode.com/problems/maximum-subarray) | Easy | Array | [Python](Python/Maximum_Subarray.py) / [Dart](Dart/Maximum_Sum_Subarray.dart)
 | First Unique Character in a String | 5 | [387](https://leetcode.com/problems/first-unique-character-in-a-string) | Easy | Array, Hash Map | [Python](Python/First_Unique_Char.py) / [Javascript](Javascript/First_Unique_Char.js) / [Dart](Dart/First_Unique_Char.dart)
