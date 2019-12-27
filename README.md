@@ -10,8 +10,8 @@
 | Two Sum | 2 | [1](https://leetcode.com/problems/two-sum) | Easy | Array, Hash Map | [Python](Python/Two_Sum.py) / [Go](Go/Two_Sum.go) / [Kotlin](Kotlin/Two_Sum.kt) / [Dart](https://github.com/kumailn/Algorithms/tree/master/Dart) / [Rust](Rust/Two_Sum.rs) / [Javascript](Javascript/Two_Sum.js) |
 | Valid Parentheses | 3 | [20](https://leetcode.com/problems/valid-parentheses) | Easy | Array, Stack | [Python](Python/Valid_Parentheses.py) / [Go](Go/Valid_Parentheses.go) |
 | Maximum Subarray | 4 | [53](https://leetcode.com/problems/maximum-subarray) | Easy | Array | [Python](Python/Maximum_Subarray.py) / [Go](Go/Valid_Parentheses.go) / [Dart](Dart/Maximum_Sum_Subarray.dart)
-| First Unique Character in a String | 5 | [387](https://leetcode.com/problems/first-unique-character-in-a-string) | Easy | Array, Hash Map | [Python](Python/First_Unique_Char.py) / [Javascript](Javascript/First_Unique_Char.js) / [Dart](Dart/First_Unique_Char.dart)
-| Move Zeroes | 6 | [283](https://leetcode.com/problems/move-zeroes) | Easy | Array, Pointer | [Python](Python/Move_Zeroes.py) |
+| First Unique Character in a String | 5 | [387](https://leetcode.com/problems/first-unique-character-in-a-string) | Easy | Array, Hash Map | [Python](Python/First_Unique_Char.py) / [Go](Go/First_Unique_Char.go) / [Javascript](Javascript/First_Unique_Char.js) / [Dart](Dart/First_Unique_Char.dart)
+| Move Zeroes | 6 | [283](https://leetcode.com/problems/move-zeroes) | Easy | Array, Pointer | [Python](Python/Move_Zeroes.py) | [Go](Go/Move_Zeroes.go) |
 | Find Pivot Index | 7 | [724](https://leetcode.com/problems/find-pivot-index) | Easy | Array, Sliding Window | [Python](Python/Find_Pivot_Index.py) / [Kotlin](Kotlin/Find_Pivot_Index.kt) | 
 | Best Time to Buy and Sell Stock | 8 | [122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Easy | Array | [Python](Python/Best_Time_to_Buy_and_Sell_Stock.py) | 
 | Shortest Word Distance | 9 | [243](https://leetcode.com/problems/shortest-word-distance) | Easy | Array | [Python](Python/Shortest_Distance.py) | 
