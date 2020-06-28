@@ -152,7 +152,7 @@
 | Delete Operation for Two Strings | 5 | [583](https://leetcode.com/problems/delete-operation-for-two-strings/) | Medium | Dynamic Programming | [Python](Python/Delete_Operation_for_Two_Strings.py) |
 | Edit Distance | 6 | [72](https://leetcode.com/problems/edit-distance/) | Hard | Dynamic Programming, Top Down | [Python](Python/Edit_Distance.py) |
 | Longest Common Subsequence | 7 | [1143](https://leetcode.com/problems/longest-common-subsequence/) | Hard | Dynamic Programming, Bottom Up | [Python](Python/Longest_Common_Subsequence.py) |
-| Maximum Length of Repeated Subarray | 7 | [718](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | Medium | Dynamic Programming, Bottom Up, Longest Common Subarray | [Python](Python/Maximum_Length_of_Repeated_Subarray.py) |
+| Maximum Length of Repeated Subarray | 8 | [718](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | Medium | Dynamic Programming, Bottom Up, Longest Common Subarray | [Python](Python/Maximum_Length_of_Repeated_Subarray.py) |
 
 ## 🎨 Design 
 | Title | Recommended Order # | Leetcode # | Difficulty | Tags | Solution |
