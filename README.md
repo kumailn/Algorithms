@@ -1,5 +1,5 @@
 # 🆘 Algorithms 🆘
-* **A lot of leetcode problems with their most optimal solutions explained in detail!**
+* ** Select leetcode problems with their most optimal solutions explained in detail!**
   - The order questions are listed in is on purpose and is recommended to follow
   - [![HitCount](http://hits.dwyl.io/kumailn/Algorithms.svg)](http://hits.dwyl.io/kumailn/Algorithms)
 
