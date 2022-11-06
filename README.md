@@ -121,6 +121,7 @@
 | Redundant Connection                                  | 7                   | [684](https://leetcode.com/problems/redundant-connection/)                                  | Medium     | Graph              | [Python](Python/Redundant_Connection.py)                           |
 | Course Schedule                                       | 8                   | [207](https://leetcode.com/problems/course-schedule/)                                       | Medium     | Top Sort           | [Python](Python/Course_Schedule.py)                                |
 | Course Schedule II                                    | 9                   | [210](https://leetcode.com/problems/course-schedule-ii/)                                    | Medium     | Top Sort           | [Python](Python/Course_Schedule_II.py)                             |
+| Parallel Courses IIII                                 | 9                   | [2050](https://leetcode.com/problems/parallel-courses-iii/)                                  | Hard      | Top Sort           | [Python](Python/Parallel_Courses_III.py)                             |
 
 ## 🗃️ Sorting
 | Title      | Leetcode # | Difficulty | Tags               | Solution                        |
